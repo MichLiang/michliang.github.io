@@ -20,3 +20,4 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 - [University of Waterloo] Doctor of Pharmacy (Jan 2019 - Aug 2022)
 - [National University of Singapore] International Exchange - Pharmacy (Sept 2018 - Dec 2018)
 - [University of Waterloo] Bachelor of Science, Honours with Conditional Admission to Pharmacy (Sept 2016 - Apr 2018)
+- [Université Laval] Summer Exchange - French Studies (July 2016 - Aug 2016)
