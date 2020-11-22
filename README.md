@@ -5,7 +5,7 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 
 ## My Experiences
 
-### My pharmacy work:
+### My paid pharmacy work:
 ```
 - Costco Wholesale Pharmacy (Jan 2020 - present)
 - PharmAssess Diagnostics Corp. (Sept 2020 - present)
