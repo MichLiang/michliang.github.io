@@ -6,12 +6,12 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 
 ### My pharmacy work:
 - Costco Wholesale Pharmacy (Jan 2020 - present)
-- Rexall Pharmacy Group Ltd. (Sept 2020 - Dec 2020)
 - PharmAssess Diagnostics Corp. (Sept 2020 - present)
+- Rexall Pharmacy Group Ltd. (Sept 2020 - Dec 2020)
 - Shoppers Drug Mart (June 2020 - Sept 2020)
 - Totten Pharmacy (May 2012 - Sept 2017)
 
-### My volunteer work:
+### My healthcare volunteer work:
 - Grand River Hospital Emergency Department (Jan 2020 - present)
 - Huron Lodge Long Term Care Home (June 2012 - Aug 2016)
 
