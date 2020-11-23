@@ -1,4 +1,5 @@
 menu:
+- {name: 'Home', page: ''}
 - {name: 'About me', page: 'about'}
 - {name: 'Notes', page: 'notes'}
 - {name: 'Art Portfolio', page: 'portfolio'}
