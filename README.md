@@ -27,6 +27,10 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 - [University of Waterloo] Bachelor of Science, Honours with Conditional Admission to Pharmacy (Sept 2016 - Apr 2018)
 - [Université Laval] Summer Exchange - French Studies (July 2016 - Aug 2016)
 
-## My Certifications:
+### My Certifications:
+
 - Smoking cessation trained
 - Injections trained
+- National Lifeguard Services certified (NLS, Pool)
+- Standard First Aid & CPR-C
+- Naloxone Training
