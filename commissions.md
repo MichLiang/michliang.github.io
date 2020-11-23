@@ -7,7 +7,7 @@ Commissions open soon!
 
 ## General pricing
 
-Short gif/MP4 animation[colour] - $40
+Short gif/MP4 animation [colour] - $40
 
 Short gif/MP4 animation [B&W] - $30
 
