@@ -4,4 +4,3 @@ title: Notes
 ---
 
 
-# Under Construction
