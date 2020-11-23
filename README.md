@@ -33,4 +33,4 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 - Injections trained
 - National Lifeguard Services certified (NLS, Pool)
 - Standard First Aid & CPR-C
-- Naloxone Training
+- Naloxone trained
