@@ -7,7 +7,6 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 
 <br/>  
 
-
 <i> Special thanks to 
     <a href="https://www.raphaelkoh.me"> Raphael </a> 
 for mentoring me throughout the process of making this website!

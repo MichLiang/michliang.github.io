@@ -3,7 +3,7 @@ layout: page
 title: Notes
 ---
 
-##Coming soon
+## Coming soon
 
 - Diabetes
 - Cardiology

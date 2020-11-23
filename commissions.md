@@ -5,7 +5,7 @@ title: Design Commissions
 
 Commissions open soon!
 
-##General pricing
+## General pricing
 
 Short gif/MP4 animation[colour] - $40
 
