@@ -1,10 +1,8 @@
-# TODO: Include menu
 menu:
-- {name: 'About me', path: 'menu', url: 'about.html'}
-- {name: 'Art Portfolio', path: 'menu', url: 'portfolio.html'}
-- {name: 'Notes', path: 'menu', url: 'notes.html'}
-- {name: 'Design Commissions', path: 'commissions', url: 'commissions.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'About me', page: 'about'}
+- {name: 'Art Portfolio', page: 'portfolio'}
+- {name: 'Notes', page: 'notes'}
+- {name: 'Design Commissions', page: 'commissions'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
