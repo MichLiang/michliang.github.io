@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header>
         {% if site.title %}
-        <img src="{{ site.title | relative_url }} alt="Title" />
+        <img src="{{site.title | relative_url}} alt="Title" />
         {% endif %}
 
         {% if site.logo %}
@@ -24,10 +24,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
         
         <div class="social-icons">
           {% include social-icons.html %}
