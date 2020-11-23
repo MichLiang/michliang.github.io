@@ -1,0 +1,19 @@
+<header>
+    {% if site.title %}
+    <a href="/">
+        <img src="{{site.title | relative_url}}" alt="Title" />
+    </a>
+    {% endif %}
+
+    {% if site.logo %}
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
+    {% endif %}
+
+    <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+    <div style="display: flex;">
+        <div class="social-icons" style="margin: auto;">
+        {% include social-icons.html %}
+        </div>
+    </div>
+</header>

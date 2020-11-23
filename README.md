@@ -36,5 +36,5 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 - Naloxone trained
 
 <i> Special thanks to 
-    <a href="raphaelkoh.me"> Raphael </a> 
+    <a href="https://www.raphaelkoh.me"> Raphael </a> 
 for mentoring me throughout the process of making this website!

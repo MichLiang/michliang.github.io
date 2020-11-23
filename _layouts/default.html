@@ -14,39 +14,17 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        {% if site.title %}
-        <a href="/">
-          <img src="{{site.title | relative_url}}" alt="Title" />
-        </a>
-        {% endif %}
+      {% include sidebar.html %}
 
-        {% if site.logo %}
-         <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        <div style="display: flex;">
-          <div class="social-icons" style="margin: auto;">
-            {% include social-icons.html %}
-          </div>
-        </div>
-
-      </header>
       <section>
 
-      {% include menu.html %}
+        {% include menu.html %}
 
-      {{ content }}
+        {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
       
-      </footer>
+      {% include footer.html %}
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
