@@ -15,8 +15,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <img src="{{ "/" | relative_url }}" {{ site.title | /assets/title.png }} alt="Title" />
-        
+        {% if site.title %}
+        <img src="{{ site.title | relative_url }} alt="Title" />
+        {% endif %}
+
         {% if site.logo %}
          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
