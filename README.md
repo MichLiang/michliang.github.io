@@ -1,3 +1,7 @@
+---
+layout: page
+title:
+---
 
 # Student Pharmacist at University of Waterloo, Digital Artist at home
 
