@@ -3,7 +3,6 @@ layout: page
 title: About Me
 ---
 
-## My Experiences
 
 ### My paid pharmacy work:
 
@@ -33,3 +32,24 @@ title: About Me
 - Standard First Aid & CPR-C
 - Naloxone trained
 
+## Pharmacy softwares:
+- Kroll
+- Delta
+- Nexxsys
+
+## Experience:
+- Technology in Pharmacy Network (Co-founder)
+- Hack the North (Organzier)
+- FEDS Orientation (Coordinator)
+- Pharmacy Peer Relief Network (Peer Mentor)
+- UW School of Pharmacy (Ambassador)
+- University of Waterloo Food Services (Store Front Employee)
+- Pre-Pharmacy Club (Ambassador, VP Communications)
+
+## Interests:
+- Swimming (OFSAA finalist, 7-year competitive swimmer, coach, lifeguard, Waterloo Warriors Lifesaving Club Provincial Championship team)
+- Archery (IUAT silver medalist, UW competitive team)
+- Fencing (foil)
+- Other sports (figure skating, snowboarding, surfing, scuba diving, badminton, sky-diving)
+- Musical instruments (piano - Grade 10 RCM, flute, guitar, ukulele, violin)
+- Ballroom and Latin dance
