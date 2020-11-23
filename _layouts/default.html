@@ -25,8 +25,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <div class="social-icons">
-          {% include social-icons.html %}
+        <div style="display: flex;">
+          <div class="social-icons" style="margin: auto;">
+            {% include social-icons.html %}
+          </div>
         </div>
       </header>
       <section>
