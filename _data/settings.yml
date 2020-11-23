@@ -1,7 +1,7 @@
 menu:
 - {name: 'About me', page: 'about'}
-- {name: 'Art Portfolio', page: 'portfolio'}
 - {name: 'Notes', page: 'notes'}
+- {name: 'Art Portfolio', page: 'portfolio'}
 - {name: 'Design Commissions', page: 'commissions'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
