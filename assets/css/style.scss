@@ -6,32 +6,6 @@
 /*
   Base
 */
-
-/*
-Masthead
-*/
-
-.masthead {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    margin-bottom: 4rem;
-    font-family: "Quattrocento Sans", sans-serif;
-}
-
-.masthead a:hover {
-    color:black;
-}
-
-.masthead-title a {
-    font-size: 2rem;
-    text-decoration: none;
-    color: #505050;
-}
-
-.masthead-subtitle {
-    color: #999;
-}
-
   
 /*
 Menu
@@ -39,6 +13,8 @@ Menu
 
 .menu {
     padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 4rem;
     display: block;
 }
 

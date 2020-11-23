@@ -1,14 +1,8 @@
-<div class="masthead">
-    {% if page.title %}
-    <h3 class="masthead-title">{{ page.title }}</h3>
-    {% endif %}
-
-    <div class="menu">
-        <nav class="menu-content">
-            {% for item in site.data.settings.menu %}
-            <a href="/{{ item.page }}.html">{{ item.name }}</a>
-            &nbsp;  &nbsp;
-            {% endfor %}
-        </nav>
-    </div>
+<div class="menu">
+    <nav class="menu-content">
+        {% for item in site.data.settings.menu %}
+        <a href="/{{ item.page }}.html">{{ item.name }}</a>
+        &nbsp;  &nbsp;
+        {% endfor %}
+    </nav>
 </div>
