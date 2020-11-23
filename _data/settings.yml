@@ -1,0 +1,15 @@
+# TODO: Include menu
+menu:
+- {name: 'About me', path: 'menu', url: 'about.html'}
+- {name: 'Art Portfolio', path: 'menu', url: 'portfolio.html'}
+- {name: 'Notes', path: 'menu', url: 'notes.html'}
+- {name: 'Design Commissions', path: 'commissions', url: 'commissions.html'}
+- {name: 'Contact', path: 'menu', url: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github', link: 'https://github.com/MichLiang'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/michelleliangpharmd/'}
+- {icon: 'instagram', link: 'https://www.instagram.com/michelleliangx/'}
+- {icon: 'envelope', link: 'mailto:michelleliangx@gmail.com'}
+- {icon: 'twitter', link: 'https://twitter.com/michellelianguw?lang=en'}
