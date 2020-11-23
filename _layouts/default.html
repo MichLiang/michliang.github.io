@@ -16,7 +16,9 @@
     <div class="wrapper">
       <header>
         {% if site.title %}
-        <img src="{{site.title | relative_url}}" alt="Title" />
+        <a href="/">
+          <img src="{{site.title | relative_url}}" alt="Title" />
+        </a>
         {% endif %}
 
         {% if site.logo %}
