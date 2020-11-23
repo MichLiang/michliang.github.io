@@ -35,4 +35,6 @@ Hi, my name's Michelle, and I'm currently a third year pharmacy student working 
 - Standard First Aid & CPR-C
 - Naloxone trained
 
-<i> Special thanks to raphaelkoh.me for mentoring me through the process of making this website
+<i> Special thanks to 
+    <a href="/"> raphaelkoh.me </a> 
+for mentoring me through the process of making this website!
