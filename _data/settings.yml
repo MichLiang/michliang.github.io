@@ -8,8 +8,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: '<i class="fab fa-github"></i>', link: 'https://github.com/MichLiang'}
-- {icon: '<i class="fab fa-linkedin"></i>', link: 'http://www.linkedin.com/in/michelleliangpharmd/'}
-- {icon: '<i class="fab fa-instagram"></i>', link: 'https://www.instagram.com/michelleliangx/'}
-- {icon: '<i class="fas fa-envelope"></i>', link: 'mailto:michelleliangx@gmail.com'}
-- {icon: '<i class="fab fa-twitter"></i>', link: 'https://twitter.com/michellelianguw?lang=en'}
+- {icon: 'fab fa-github', link: 'https://github.com/MichLiang'}
+- {icon: 'fab fa-linkedin', link: 'http://www.linkedin.com/in/michelleliangpharmd/'}
+- {icon: 'fab fa-instagram', link: 'https://www.instagram.com/michelleliangx/'}
+- {icon: 'fas fa-envelope', link: 'mailto:michelleliangx@gmail.com'}
+- {icon: 'fab fa-twitter', link: 'https://twitter.com/michellelianguw?lang=en'}
