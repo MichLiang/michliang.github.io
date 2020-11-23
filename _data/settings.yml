@@ -1,6 +1,6 @@
 menu:
 - {name: 'Home'}
-- {name: 'About me', url: 'about.html'}
+- {name: 'About', url: 'about.html'}
 - {name: 'Notes', url: 'notes.html'}
 - {name: 'Art Portfolio', url: 'portfolio.html'}
 - {name: 'Design Commissions', url: 'commissions.html'}
