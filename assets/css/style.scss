@@ -4,8 +4,12 @@
 @import "{{ site.theme }}";
 
 /*
-  Base
+  Sidebar
 */
+
+.sidebar {
+    margin-right: 20px;
+}
   
 /*
 Menu
@@ -21,6 +25,7 @@ Menu
     margin-bottom: 4rem;
     display: block;
     height: 80px;
+    width: 90%;
 }
 
 .menu-content {
