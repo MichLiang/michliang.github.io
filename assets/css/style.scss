@@ -7,10 +7,12 @@
   Sidebar
 */
 
-.sidebar {
-    margin-right: 20px;
+@media print, screen and (max-width: 960px) {
+    .sidebar {
+        margin-top: 55px;
+    }
 }
-  
+
 /*
 Menu
 */
@@ -27,6 +29,14 @@ Menu
     height: 80px;
     width: 90%;
 }
+
+// MOBILE VERSION
+
+// @media print, screen and (max-width: 960px) {
+//     .menu {
+//         width: 90%;
+//     }
+// }
 
 .menu-content {
     float: left;
