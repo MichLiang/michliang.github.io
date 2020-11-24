@@ -3,11 +3,11 @@ layout: page
 title: About Me
 ---
 
-```
-Hello!
 
-My name's Michelle Liang, and I'm 22 this year. I live in Waterloo, Ontario, Canada, and I'm currently attending the University of Waterloo. I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, rendang, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
-```
+> Hello!
+
+> My name's Michelle Liang, and I'm 22 this year. I live in Waterloo, Ontario, Canada, and I'm currently attending the University of Waterloo. I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, rendang, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
+
 
 
 ### My paid pharmacy work:
