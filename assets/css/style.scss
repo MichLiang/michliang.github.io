@@ -13,13 +13,19 @@ Menu
 
 .menu {
     position: fixed;
-    top: 0; 
+    background-color: rgb(255, 255, 255);
+    top: 35; 
     width: 100%; 
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     margin-bottom: 4rem;
     display: block;
 }
+
+.menu a:hover {
+    background: #ddd;
+    color: black;
+  }
 
 .menu-content {
     float: left;
@@ -30,6 +36,10 @@ Menu
     font-size: 1rem;
     padding-right: 10px;
 }
+
+.content {
+    margin-top: 35px;
+  }
 
 .social-icons {
     float: right;
@@ -107,3 +117,5 @@ Social media icons
 .fa-linkedin:hover {
     color: #3c6ffd;
 }
+
+
