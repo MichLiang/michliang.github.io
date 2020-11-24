@@ -14,6 +14,7 @@ Menu
 .menu {
     position: fixed;
     background-color: rgb(255, 255, 255);
+    opacity: 0.5;
     top: 35; 
     width: 100%; 
     padding-top: 0.5rem;
@@ -23,8 +24,9 @@ Menu
 }
 
 .menu a:hover {
-    background: #ddd;
-    color: black;
+    background: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    opacity: 1;
   }
 
 .menu-content {
