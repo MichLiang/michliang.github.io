@@ -3,3 +3,6 @@ title_logo: /assets/title.png
 logo: /assets/logo.gif
 description: Thanks for visiting my personal website!
 theme: jekyll-theme-minimal
+url: https://michliang.github.io
+plugins:
+  - jekyll-sitemap
