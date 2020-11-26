@@ -18,7 +18,7 @@ title: About Me
 - Shoppers Drug Mart (June 2020 - Sept 2020)
 - Totten Pharmacy (May 2012 - Sept 2017)
 
-### My healthcare volunteer work:
+### My volunteer experience in healthcare:
 
 - Grand River Hospital Emergency Department (Jan 2020 - present)
 - Huron Lodge Long Term Care Home (June 2012 - Aug 2016)
