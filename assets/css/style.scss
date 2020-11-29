@@ -180,20 +180,6 @@ a {
   }
 }
 
-nav {
-  padding: 2.5rem 0 2.5rem 0;
-  ul {
-    display: flex;
-    justify-content: flex-start;
-  }
-  li {
-    font-size: 1.25rem;
-    &:nth-child(2) {
-      margin: 0;
-    }
-  }
-}
-
 #highlight {
   color: $highlight;
   font-size: 1.25rem;
@@ -259,7 +245,7 @@ img {
   }
 }
 
-@media(min-width: 768px) {
+@media(min-width: 400px) {
   nav ul {
     justify-content: flex-end;
   }
