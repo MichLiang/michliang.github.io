@@ -1,5 +1,5 @@
 ---
-layout: commissions
+layout: page
 title: Design Commissions
 ---
 
