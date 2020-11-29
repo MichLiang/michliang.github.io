@@ -11,6 +11,18 @@ $gray: #787878;
 $highlight: #ea8478;
 $footer: #f7f7f7;
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.column {
+    margin-top: 8px;
+    vertical-align: middle;
+    flex: 50%;
+}
+
 .gallery * {
   box-sizing: border-box;
   &::before, &::after {
