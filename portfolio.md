@@ -10,5 +10,5 @@ for more art!
 ## Drawings
 
 {% capture content2 %}
-"## Animations"
+## Animations
 {% endcapture %}
