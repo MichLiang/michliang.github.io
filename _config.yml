@@ -4,6 +4,5 @@ logo: /assets/homepage/logo.gif
 description: Thanks for visiting my personal website!
 theme: jekyll-theme-minimal
 url: https://michliang.github.io
-relative_permalinks: false
 plugins:
   - jekyll-sitemap
