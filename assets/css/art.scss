@@ -8,20 +8,11 @@ $gray: #787878;
 $highlight: #ea8478;
 $footer: #f7f7f7;
 
-* {
+.gallery * {
   box-sizing: border-box;
   &::before, &::after {
     box-sizing: border-box;
   }
-}
-
-ul li {
-  margin: 0 1.5rem 0 0;
-}
-
-#highlight {
-  color: $highlight;
-  font-size: 1.25rem;
 }
 
 .gallery {
@@ -34,9 +25,6 @@ ul li {
   z-index: 1;
   cursor: pointer;
   overflow: hidden;
-  &:hover .img-content-hover {
-    display: block;
-  }
 }
 
 img {
@@ -48,20 +36,6 @@ img {
   &:hover {
     transform: scale(1.05);
   }
-}
-
-.img-content-hover {
-  z-index: 1;
-  position: absolute;
-  top: 0;
-  left: 0;
-  white-space: nowrap;
-  display: none;
-  padding: 1rem;
-  background: $white;
-  font-weight: 400;
-  margin-top: 1.25rem;
-  margin-left: -2rem;
 }
 
 .title {
