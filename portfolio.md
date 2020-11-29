@@ -3,8 +3,12 @@ layout: art
 title: Art Portfolio
 ---
 
-## Artwork coming soon
-
-In the meantime, feel free to check out my
+Feel free to check out my
 <a href="https://www.instagram.com/michelleliangx/"> Instagram stories </a> 
-for my art!
+for more art!
+
+## Drawings
+
+{% capture content2 %}
+"## Animations"
+{% endcapture %}
