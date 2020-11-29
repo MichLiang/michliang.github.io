@@ -24,11 +24,11 @@
   </head>
   <body>
     <div class="wrapper">
-      {% include sidebar.html %}
+      {% include utils/sidebar.html %}
 
       <section>
 
-        {% include menu.html %}
+        {% include utils/menu.html %}
         
         <div class="content">
           {{ content }}
@@ -37,7 +37,7 @@
 
       </section>
       
-      {% include footer.html %}
+      {% include utils/footer.html %}
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
