@@ -10,65 +10,13 @@ layout: default
 
 
 <section class="gallery">
-  <div class="container">
-    <div class="grid">
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="/assets/art/Injections.png" />
-          <figcaption class="img-content">
-            <h2 class="title">Pharmacist</h2>
-            <h3 class="category">Stills</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Pharmacist</h2>
-            <h3 class="category">Stills</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="/assets/art/Arizona.png" />
-          <figcaption class="img-content">
-            <h2 class="title">Arizona can</h2>
-            <h3 class="category">Stills</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Arizona can</h2>
-            <h3 class="category">Stills</h3>
-          </span>
-        </figure>
-      </div>
+  <div class="container"> 
+    {% include art/stills.html %}
 
-    </br>
     <span>
       Animations
     </span>
 
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="/assets/art/PlanetFlare.png">
-          <figcaption class="img-content">
-            <h2 class="title">PlanetFlare</h2>
-            <h3 class="category">Animations</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">PlanetFlare</h2>
-            <h3 class="category">Animations</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-6">
-        <figure class="img-container">
-          <img src="/assets/art/Sqore.gif" />
-          <figcaption class="img-content">
-            <h2 class="title">Sqore</h2>
-            <h3 class="category">Animations</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Sqore</h2>
-            <h3 class="category">Animations</h3>
-          </span>
-        </figure>
-    </div>
+    {% include art/animations.html %}
   </div>
 </section>
