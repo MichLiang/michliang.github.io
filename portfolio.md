@@ -8,7 +8,3 @@ Feel free to check out my
 for more art!
 
 ## Drawings
-
-{% capture content2 %}
-## Animations
-{% endcapture %}
