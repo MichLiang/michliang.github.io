@@ -3,10 +3,9 @@ layout: page
 title: Notes
 ---
 
-## Coming soon
+## Future notes
 
 - Diabetes
-- Men's Health
 - Cardiology
 - Nephrology
 - Asthma/COPD

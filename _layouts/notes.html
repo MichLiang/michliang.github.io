@@ -1,5 +1,6 @@
 ---
 layout: default
+css: notes
 ---
 
 <h1>
@@ -8,11 +9,13 @@ layout: default
 
 {{ content }}
 
-<section class="notes">
-    <div class="notes"> 
-      {% include notes/menshealth.html %}
-  
-      {% include notes/vte.html %}
+<section class="notebook">
+    <div class="notescontainer">
+        <embed src="/assets/notes/Men's Health.pdf" type="application/pdf" width="100%" height="600px" />
     </div>
-  </section>
+    
+    <div class="notescontainer">
+        <embed src="/assets/notes/VTE.pdf" type="application/pdf" width="100%" height="600px" />
+    </div>
+</section>
 
