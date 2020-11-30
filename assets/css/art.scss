@@ -25,19 +25,6 @@ $footer: #f7f7f7;
 .container {
   margin-bottom: 25px;
 }
-//trying to the vertical part aligned - RAPH PLEASE EDIT it doesn't work
-.frame {
-    white-space: nowrap; /* This is required unless you put the helper span closely near the img */
-}
-.helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
-}
-.gallery {
-    vertical-align: middle;
-}
-//trying to the vertical part aligned
 
 .row {
   display: flex;
@@ -62,6 +49,10 @@ $footer: #f7f7f7;
   overflow: hidden;
 }
 
+.animations .img-container {
+  height: 240px;
+}
+
 .img-container img {
 	  object-fit: contain;
     transform: scale(1);
@@ -69,6 +60,10 @@ $footer: #f7f7f7;
     &:hover {
         transform: scale(1.05);
     }
+}
+
+.animations img {
+  height: 100%;
 }
 
 @supports (display: grid) {
