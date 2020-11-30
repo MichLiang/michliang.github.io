@@ -25,7 +25,20 @@ $footer: #f7f7f7;
 .container {
   margin-bottom: 25px;
 }
-
+//trying to the vertical part aligned
+.frame {
+    white-space: nowrap; /* This is required unless you put the helper span closely near the img */
+    margin: 1em 0;
+}
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.gallery {
+    vertical-align: middle;
+}
+//trying to the vertical part aligned
 .row {
   display: flex;
   flex-wrap: wrap;
