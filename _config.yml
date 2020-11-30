@@ -6,7 +6,6 @@ theme: jekyll-theme-minimal
 url: https://michliang.github.io
 plugins:
   - jekyll-sitemap
-
 defaults:
   - scope:
       path: ""
