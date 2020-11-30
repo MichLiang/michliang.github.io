@@ -5,3 +5,16 @@
 .notebook {
     padding: 30px;
 }
+
+.notebook * {
+    box-sizing: border-box;
+    &::before, &::after {
+      box-sizing: border-box;
+    }
+  }
+
+  @supports (display: grid) {
+    .notebook .grid {
+      grid-gap: 1rem;
+    }
+  }
