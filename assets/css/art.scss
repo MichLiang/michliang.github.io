@@ -49,8 +49,13 @@ $footer: #f7f7f7;
   overflow: hidden;
 }
 
+.animations {
+  display: flex;
+}
+
 .animations .img-container {
-  height: 240px;
+  margin: auto;
+  height: 160px;
 }
 
 .img-container img {
