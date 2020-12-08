@@ -9,7 +9,7 @@ notes:
     subtitle: Electrolyte disorders, AKI, CKD, ESRD
     gdrive: 1ZD0naKt9ZKjl5dltuGkBzMQFK1JEIJ_K
   - title: Dyslipidemia
-    subtitle: Dyslipidemia statin and non-statin treatment
+    subtitle: High cholesterol, statin and non-statin treatment
     gdrive: 14krk0VtvOg6N_AS2Vf3ufLcKHyedOUnL
   - title: Venous Thromboembolism
     subtitle: VTE prophylaxis, acute and chronic treatment
