@@ -7,10 +7,16 @@ function addClickListeners(acc) {
     
             /* Toggle between hiding and showing the active panel */
             const panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
+            if (panel.style.visibility === "visible") {
+                panel.style.visibility = "hidden";
+                panel.style.opacity = "0";
+                panel.style.height = "0";
+                panel.style.padding = "0";
             } else {
-                panel.style.display = "block";
+                panel.style.visibility = "visible";
+                panel.style.opacity = "1";
+                panel.style.height = "600px";
+                panel.style.padding = "0 18px";
             }
         });
     }
