@@ -16,6 +16,9 @@
     <![endif]-->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5YX6DY89FB"></script>
+    {% if layout.js %}
+    <script src="{{ "/assets/javascript/" | append: layout.js | append: ".js?v=" | append: site.github.build_revision | relative_url }}"></script>
+    {% endif %}
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
