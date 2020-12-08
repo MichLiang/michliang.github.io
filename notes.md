@@ -19,7 +19,8 @@ notes:
 ## Future notes
 
 - Diabetes
-- Dyslipidemia
 - Hypertension
+- Heart Failure
+- Peripheral Artery Disease
 - Asthma/COPD
 - Infectious Diseases
