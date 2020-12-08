@@ -11,12 +11,10 @@ function addClickListeners(acc) {
                 panel.style.visibility = "hidden";
                 panel.style.opacity = "0";
                 panel.style.height = "0";
-                panel.style.padding = "0";
             } else {
                 panel.style.visibility = "visible";
                 panel.style.opacity = "1";
                 panel.style.height = "600px";
-                panel.style.padding = "0 18px";
             }
         });
     }
