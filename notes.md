@@ -6,6 +6,7 @@ title: Notes
 ## Future notes
 
 - Diabetes
-- Nephrology
+- Dyslipidemia
+- Hypertension
 - Asthma/COPD
 - Infectious Diseases
