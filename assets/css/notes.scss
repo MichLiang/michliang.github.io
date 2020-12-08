@@ -51,12 +51,16 @@
     position: relative;
 }
 
-.pop-up-hider {
+.hider {
     width: 60px;
     height: 60px;
     position: absolute;
-    opacity: 0;
     right: 0px;
     top: 0px;
     display: flex;
+    background-color: white;
+}
+
+.hider-text {
+    margin: auto;
 }
