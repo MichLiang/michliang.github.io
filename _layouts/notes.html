@@ -2,10 +2,6 @@
 layout: default
 css: notes
 js: notes
-items:
-  - title: Men's Health
-    subtitle: Hypogonadism, AA, BPH, ED
-    url: 1WWMDpaKDCFQifmkl37oe472tvxpSuRNY
 ---
 
 <h1>
@@ -13,54 +9,24 @@ items:
 </h1>
 
 <section class="notebook">
+    {% for note in page.notes %}
     <div class="notebook-container">
         <button class="accordion">
             <div class="notebook-title">
-                <span>Men's Health</span>
+                <span>{{ note.title }}</span>
             </div>
             <div class="notebook-subtitle">
-                <span>Hypogonadism, AA, BPH, ED</span>
+                <span>{{ note.subtitle }}</span>
             </div>
         </button>
         <div class="panel">
-            <iframe src="https://drive.google.com/file/d/1WWMDpaKDCFQifmkl37oe472tvxpSuRNY/preview" type="application/pdf" width="500" height="600"></iframe>
+            <iframe src="https://drive.google.com/file/d/{{ note.gdrive }}/preview" type="application/pdf" width="500" height="600"></iframe>
             <div class="hider">
                 <span class="hider-text">ML</span>
             </div>
         </div>
     </div>
-    <div class="notebook-container">
-        <button class="accordion">
-            <div class="notebook-title">
-                <span>Venous Thromboembolism</span>
-            </div>
-            <div class="notebook-subtitle">
-                <span>VTE prophylaxis, acute and chronic treatment</span>
-            </div>
-        </button>
-        <div class="panel">
-            <iframe src="https://drive.google.com/file/d/14cwbMggjFveSQ-Z2Fpg46CFEerv5ELA3/preview" type="application/pdf" width="500" height="600"></iframe>
-            <div class="hider">
-                <span class="hider-text">ML</span>
-            </div>
-        </div>
-    </div>
-    <div class="notebook-container">
-        <button class="accordion">
-            <div class="notebook-title">
-                <span>Nephrology</span>
-            </div>
-            <div class="notebook-subtitle">
-                <span>Electrolyte disorders, AKI, CKD, ESRD</span>
-            </div>
-        </button>
-        <div class="panel">
-            <iframe src="https://drive.google.com/file/d/1ZD0naKt9ZKjl5dltuGkBzMQFK1JEIJ_K/preview" type="application/pdf" width="500" height="600"></iframe>
-            <div class="hider">
-                <span class="hider-text">ML</span>
-            </div>
-        </div>
-    </div>
+    {% endfor %}
 </section>
 
 {{ content }}
