@@ -1,6 +1,4 @@
-window.onload = function() {
-    const acc = document.getElementsByClassName("accordion");
-    
+function addClickListeners(acc) {
     for (let i = 0; i < acc.length; i++) {
         acc[i].addEventListener("click", function() {
             /* Toggle between adding and removing the "active" class,
@@ -16,4 +14,19 @@ window.onload = function() {
             }
         });
     }
-};
+}
+
+let acc;
+// Poll the page every 500ms to check if accordion buttons are ready
+function waitLoop() {
+    setTimeout(() => {
+        console.log("testing")
+        acc = document.getElementsByClassName("accordion");
+        if (acc == null || acc.length === 0) {
+            // If we still cannot find the accordions, run waitLoop again
+            waitLoop();
+        }
+    }, 500);
+}
+
+waitLoop();
