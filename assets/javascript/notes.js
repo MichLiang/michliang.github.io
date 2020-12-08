@@ -20,11 +20,12 @@ let acc;
 // Poll the page every 500ms to check if accordion buttons are ready
 function waitLoop() {
     setTimeout(() => {
-        console.log("testing")
         acc = document.getElementsByClassName("accordion");
         if (acc == null || acc.length === 0) {
             // If we still cannot find the accordions, run waitLoop again
             waitLoop();
+        } else {
+            addClickListeners(acc);
         }
     }, 500);
 }
