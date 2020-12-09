@@ -4,7 +4,6 @@ title: Design Commissions
 ---
 
 If requesting a commission, please send me an email with reference photos or a detailed description of what you would like!
-
 <br/>
 
 ## General pricing
