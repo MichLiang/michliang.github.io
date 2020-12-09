@@ -9,11 +9,11 @@ If requesting a commission, please send me an email with reference photos or a d
 ## General pricing
 
 ```
-Short gif/MP4 animation [colour] - $50
+Short gif/MP4 animation [colour] - $60
 
-Short gif/MP4 animation [B&W] - $40
+Short gif/MP4 animation [B&W] - $50
 ```
-<i> Animations - Maximum 10 frames
+<i> Animations - Max. 10 frames
 
 ```
 Logo or icon design [colour] - $30
