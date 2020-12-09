@@ -22,4 +22,4 @@ Logo or icon design [B&W] - $20
 ```
 <i> Max. 2 edits after completion
 
-If you're looking for a detailed illustration, please email me for custom prices!
+If you're looking for a detailed illustration (> 3 hours), send me an email [mailto](michelleliangx@gmail.com) about custom prices.
