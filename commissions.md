@@ -3,7 +3,7 @@ layout: page
 title: Design Commissions
 ---
 
-If requesting a commission, please send me an [email](mailto:michelleliangx@gmail.com) with reference photos or a detailed description of what you would like!
+If requesting a commission, please send me an [email](mailto:michelleliangx@gmail.com?subject=[Art Commission]%20Requesting%20New%20Commission) with reference photos or a detailed description of what you would like!
 <br/>
 
 ## General pricing
@@ -22,4 +22,4 @@ Logo or icon design [B&W] - $20
 ```
 <i> Max. 2 edits after completion
 
-If you're looking for a detailed illustration (> 3 hours), send me an [email](mailto:michelleliangx@gmail.com) about custom prices.
+If you're looking for a detailed illustration (> 3 hours), send me an [email](mailto:michelleliangx@gmail.com?subject=[Art Commission]%20Requesting%20Custom%20Prices) about custom prices.
