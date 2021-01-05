@@ -135,7 +135,10 @@ Social media icons
   color: #3c6ffd;
 }
 
-// DARKMODE's LIGHTMODE
+/*
+Dark mode
+*/
+
 .switch {
   align-self: flex-end;
   margin: 0.9375rem;
@@ -153,6 +156,9 @@ Social media icons
   margin-left: 0.3125rem;
 }
 
-.dark {
-  background-color: black;
+.dark,
+.dark * {
+  background-color: #222;
+  color: #e6e6e6;
+  border-color: #e6e6e6;
 }
