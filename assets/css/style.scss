@@ -148,9 +148,13 @@ Social media icons
 Dark mode
 */
 
+.switch-container {
+  display: flex;
+}
+ 
 .switch {
   align-self: flex-end;
-  margin: 0.9375rem;
+  margin: auto;
 }
 
 .inner-switch {
