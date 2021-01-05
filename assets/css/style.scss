@@ -12,6 +12,11 @@
   .sidebar {
     margin-top: 20px;
   }
+
+  #sidebar-logo,
+  #sidebar-description {
+    display: none;
+  }
 }
 
 @media print, screen and (max-width: 500px) {
