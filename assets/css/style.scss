@@ -17,8 +17,8 @@
     margin-top: 20px;
   }
 
-  #sidebar-logo,
-  #sidebar-description {
+  #sidebar-logo:not([data-page='index.md']),
+  #sidebar-description:not([data-page='index.md']) {
     display: none;
   }
 }
