@@ -12,10 +12,12 @@
     />
   </a>
   {% if site.logo %}
-  <img src="{{site.logo | relative_url}}" id="sidebar-logo" alt="Logo" />
+  <img src="{{site.logo | relative_url}}" id="sidebar-logo" data-page="{{page.name}}" alt="Logo" />
   {% endif %}
 
-  <p id="sidebar-description">{{ site.description | default: site.github.project_tagline }}</p>
+  <p id="sidebar-description" data-page="{{page.name}}">
+    {{ site.description | default: site.github.project_tagline }}
+  </p>
 
   <div style="display: flex">
     <nav class="social-icons" style="margin: auto">{% include default/social-icons.html %}</nav>
