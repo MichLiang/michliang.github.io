@@ -1,9 +1,17 @@
 <header class="sidebar">
-  {% if site.title_logo %}
   <a href="/">
-    <img src="{{site.title_logo | relative_url}}" alt="{{site.title}}" />
+    <img
+      id="sidebar-title-light"
+      src="{{site.title_logo_light | relative_url}}"
+      alt="{{site.title}}"
+    />
+    <img
+      id="sidebar-title-dark"
+      src="{{site.title_logo_dark | relative_url}}"
+      alt="{{site.title}}"
+    />
   </a>
-  {% endif %} {% if site.logo %}
+  {% if site.logo %}
   <img src="{{site.logo | relative_url}}" id="sidebar-logo" alt="Logo" />
   {% endif %}
 
