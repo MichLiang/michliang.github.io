@@ -23,6 +23,9 @@ title: About Me
 - Grand River Hospital Emergency Department (Jan 2020 - present)
 - Huron Lodge Long Term Care Home (June 2012 - Aug 2016)
 
+### My research:
+- Waite Research Group - Drone Delivery Project PharmD Research Assistant
+
 ### My education:
 
 - [University of Waterloo] Doctor of Pharmacy (Jan 2019 - Aug 2022)
