@@ -12,6 +12,7 @@ title: About Me
 
 ### My paid pharmacy work:
 
+- Health Canada (May 2021 - present)
 - Costco Wholesale Pharmacy (Jan 2020 - present)
 - PharmAssess Diagnostics Corp. (Sept 2020 - present)
 - Rexall Pharmacy Group Ltd. (Sept 2020 - Dec 2020)
@@ -47,7 +48,7 @@ title: About Me
 - Nexxsys
 
 ## Experience:
-- Technology in Pharmacy Network (Co-founder)
+- Technology in Pharmacy Network (Co-Founder)
 - Hack the North (Organzier)
 - FEDS Orientation (Coordinator)
 - Pharmacy Peer Relief Network (Peer Mentor)
