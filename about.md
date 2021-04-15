@@ -6,13 +6,14 @@ title: About Me
 
 > Hello!
 
-> My name's Michelle Liang, and I'm 22 this year. I live in Waterloo, Ontario, Canada, and I'm currently attending the University of Waterloo. I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, rendang, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
+> My name's Michelle Liang, and I'm 23 this year. I live in Waterloo, Ontario, Canada, and I'm currently attending the University of Waterloo. I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, rendang, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
 
 
 
 ### My paid pharmacy work:
 
 - Health Canada (May 2021 - present)
+- Centre for Family Medicine (Mar 2021 - present)
 - Costco Wholesale Pharmacy (Jan 2020 - present)
 - PharmAssess Diagnostics Corp. (Sept 2020 - present)
 - Rexall Pharmacy Group Ltd. (Sept 2020 - Dec 2020)
@@ -49,6 +50,7 @@ title: About Me
 
 ## Experience:
 - Technology in Pharmacy Network (Co-Founder)
+- HackRx (Co-Founder)
 - Hack the North (Organzier)
 - FEDS Orientation (Coordinator)
 - Pharmacy Peer Relief Network (Peer Mentor)
