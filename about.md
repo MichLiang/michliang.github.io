@@ -75,6 +75,6 @@ title: About Me
 - [Students selected to meet the Prime Minister of Canada Justin Trudeau at the National Univerity of Singapore](https://www.facebook.com/nus.singapore/videos/556982028082497/?__cft__[0]=AZVKz3ullWhAxUJUx7qr7n03mdwSe2f6Sdlx6lelUC1fAo3xruM-fCmnKqRuzI4t-R7t9wvohFl5uim9Rz9ruJ-io-aRYNpZIrlrbTMVMW67LHiLaFsWX0I4vJbl3zIIkQ_KMJRltHQOxUCzxOSCEm7a&__tn__=-UK-R)  
 - [Schulich Leader in STEM: Michelle Liang](https://www.schulichleaders.com/michelle-liang)  
 - [Michelle at the Health Sciences COVID-19 Vaccine Clinic](https://www.instagram.com/p/CPGSe0YAT5W/)  
-- [Student founded non-profit raises over $1000](https://twitter.com/SSS_sabres/status/741324382002384897)  
+- [Student-founded non-profit raises over $1000](https://twitter.com/SSS_sabres/status/741324382002384897)  
 - [CTV News: Gold Medalist at WECSSAA Swimming Competition](https://windsor.ctvnews.ca/video?clipId=809961)  
 - [IUAT Tournament Silver Medalist: Michelle Liang](http://archery.uwaterloo.ca/events.php)  
