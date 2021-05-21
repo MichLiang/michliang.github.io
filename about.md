@@ -69,7 +69,7 @@ title: About Me
 ## News:
 - [1000+ Flu Shots and Counting: Pharmacy Student Reflects on Being an Immunizer](https://uwaterloo.ca/pharmacy/news/1000-flu-shots-and-counting-pharmacy-student-reflects-being)  
 - [TIP Network joins True North 2019](https://uwaterloo.ca/pharmacy/news/pharmacy-students-join-technology-leaders-true-north)  
-- [HackRx: First Ever Pharmacy Hackathon](https://uwaterloo.ca/pharmacy/news/hackrx-us-students-across-canada-invited-pharmacy-and)  
+- [HackRx: ](https://uwaterloo.ca/pharmacy/news/hackrx-us-students-across-canada-invited-pharmacy-and)[First Ever Pharmacy Hackathon](https://uwaterloo.ca/pharmacy/news/hackrx-big-success-attendees-share-experiences-first)
 - [Leadership of Women in STEM Takeover on SuperPosition Toronto](https://www.instagram.com/p/CJ2CcP4AqWW/)
 - [OPSIS 2021: UWaterloo and UofT](https://pharmacy.utoronto.ca/news-announcements/ontario-pharmd-students-look-pharmacys-horizons-student-conference)  
 - [Students selected to meet the Prime Minister of Canada Justin Trudeau at the National Univerity of Singapore](https://www.facebook.com/nus.singapore/videos/556982028082497/?__cft__[0]=AZVKz3ullWhAxUJUx7qr7n03mdwSe2f6Sdlx6lelUC1fAo3xruM-fCmnKqRuzI4t-R7t9wvohFl5uim9Rz9ruJ-io-aRYNpZIrlrbTMVMW67LHiLaFsWX0I4vJbl3zIIkQ_KMJRltHQOxUCzxOSCEm7a&__tn__=-UK-R)  
