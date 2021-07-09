@@ -43,12 +43,12 @@ title: About Me
 - Standard First Aid & CPR-C
 - Naloxone trained
 
-## Pharmacy softwares:
+### Pharmacy softwares:
 - Kroll
 - Delta
 - Nexxsys
 
-## Experience:
+### Activities:
 - Technology in Pharmacy Network (Co-Founder)
 - HackRx (Co-Founder)
 - Hack the North (Organzier)
@@ -58,7 +58,7 @@ title: About Me
 - University of Waterloo Food Services (Store Front Employee)
 - Pre-Pharmacy Club (Ambassador, VP Communications)
 
-## Interests:
+### Interests:
 - Swimming (OFSAA finalist, 7-year competitive swimmer, coach, lifeguard, Waterloo Warriors Lifesaving Club Provincial Championship team)
 - Archery (IUAT silver medalist, UW competitive team)
 - Fencing (foil)
@@ -66,7 +66,7 @@ title: About Me
 - Musical instruments (piano - Grade 10 RCM, flute, guitar, ukulele, violin)
 - Ballroom and Latin dance
 
-## News:
+### News:
 - [1000+ Flu Shots and Counting: Pharmacy Student Reflects on Being an Immunizer](https://uwaterloo.ca/pharmacy/news/1000-flu-shots-and-counting-pharmacy-student-reflects-being)  
 - [TIP Network joins True North 2019](https://uwaterloo.ca/pharmacy/news/pharmacy-students-join-technology-leaders-true-north)  
 - [HackRx: ](https://uwaterloo.ca/pharmacy/news/hackrx-us-students-across-canada-invited-pharmacy-and)[First Ever Pharmacy Hackathon](https://uwaterloo.ca/pharmacy/news/hackrx-big-success-attendees-share-experiences-first)
