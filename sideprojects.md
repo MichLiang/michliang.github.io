@@ -3,4 +3,5 @@ layout: sideprojects
 title: Side Projects
 ---
 
-Coming soon!
+Here is a Scratch project I made for Harvard's Introduction to Computer Science (CS50) course.
+Help Link save Zelda!
