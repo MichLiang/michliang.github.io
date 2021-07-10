@@ -10,7 +10,7 @@ for more art!
 If requesting a commission, please send me an [email](mailto:michelleliangx@gmail.com?subject=[Art Commission]%20Requesting%20New%20Commission) with reference photos or a detailed description of what you would like!
 <br/>
 
-## General pricing
+## Commissions Pricing
 
 ```
 Short gif/MP4 animation [colour] - $60
