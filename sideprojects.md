@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sideprojects
 title: Side Projects
 ---
 
