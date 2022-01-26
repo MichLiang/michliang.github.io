@@ -69,6 +69,7 @@ title: About Me
 - Ballroom and Latin dance
 
 ### News:
+- [Michelle Liang’s PillMatch proposes using machine learning to make pill identification more efficient](https://uwaterloo.ca/pharmacy/news/michelle-liangs-pillmatch-proposes-using-machine-learning)  
 - [1000+ Flu Shots and Counting: Pharmacy Student Reflects on Being an Immunizer](https://uwaterloo.ca/pharmacy/news/1000-flu-shots-and-counting-pharmacy-student-reflects-being)  
 - [TIP Network joins True North 2019](https://uwaterloo.ca/pharmacy/news/pharmacy-students-join-technology-leaders-true-north)  
 - [HackRx: ](https://uwaterloo.ca/pharmacy/news/hackrx-us-students-across-canada-invited-pharmacy-and)[First Ever Pharmacy Hackathon](https://uwaterloo.ca/pharmacy/news/hackrx-big-success-attendees-share-experiences-first)
