@@ -6,13 +6,16 @@ title: About Me
 
 > Hello!
 
-> My name's Michelle Liang, and I'm 23 this year. I live in Waterloo, Ontario, Canada, and I'm currently attending the University of Waterloo. 
+> My name's Michelle Liang, and I'm 24 this year. I live in Waterloo, Ontario, Canada, and I'm a recent graduate from the University of Waterloo. 
 
-> I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, rendang, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
+> I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
 
 
 ### My paid pharmacy work:
 
+- Grand River Hospital Oncology and Nephrology (2022)
+- Two Rivers Family Health Team (2022)
+- Preston Medical Pharmacy (2022)
 - Government of Canada, Health Canada (May 2021 - present)
 - Centre for Family Medicine (Mar 2021 - present)
 - PharmAssess Diagnostics Corp. (Sept 2020 - present)
@@ -46,9 +49,9 @@ title: About Me
 - LivingWorks suicide prevention trained
 
 ### Pharmacy softwares:
-- Kroll
-- Delta
-- Nexxsys
+- Retail: Kroll, Delta, Nexxsys
+- FHT: PSS
+- Hospital: Cerner, OPIS, Renal Insight
 
 ### Activities:
 - Technology in Pharmacy Network (Co-Founder)
@@ -70,6 +73,7 @@ title: About Me
 
 ### News:
 - [Michelle Liang’s PillMatch proposes using machine learning to make pill identification more efficient](https://uwaterloo.ca/pharmacy/news/michelle-liangs-pillmatch-proposes-using-machine-learning)  
+- [Celebrating Pharmacy Appreciation Month at Grand River Hospital](https://www.youtube.com/watch?v=nBoRmttfclM)
 - [1000+ Flu Shots and Counting: Pharmacy Student Reflects on Being an Immunizer](https://uwaterloo.ca/pharmacy/news/1000-flu-shots-and-counting-pharmacy-student-reflects-being)  
 - [TIP Network joins True North 2019](https://uwaterloo.ca/pharmacy/news/pharmacy-students-join-technology-leaders-true-north)  
 - [HackRx: ](https://uwaterloo.ca/pharmacy/news/hackrx-us-students-across-canada-invited-pharmacy-and)[First Ever Pharmacy Hackathon](https://uwaterloo.ca/pharmacy/news/hackrx-big-success-attendees-share-experiences-first)
