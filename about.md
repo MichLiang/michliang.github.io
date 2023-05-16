@@ -6,14 +6,15 @@ title: About Me
 
 > Hello!
 
-> My name's Michelle Liang, and I'm 24 this year. I live in Waterloo, Ontario, Canada, and I'm a recent graduate from the University of Waterloo. 
+> My name's Michelle Liang, and I'm 25 this year. I live in Waterloo, Ontario, Canada, and I'm a recent graduate from the University of Waterloo. 
 
 > I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
 
 
-### My paid pharmacy work:
+### My pharmacy work:
 
-- Grand River Hospital Oncology and Nephrology (2022)
+- University of Waterloo School of Pharmacy Graduate Teaching Assistant (2023)
+- Grand River Hospital Oncology and Nephrology (2022 - present)
 - Two Rivers Family Health Team (2022)
 - Preston Medical Pharmacy (2022)
 - Government of Canada, Health Canada (May 2021 - present)
@@ -26,8 +27,8 @@ title: About Me
 
 ### My volunteer experience in healthcare:
 
-- Grand River Hospital Emergency Department (Jan 2020 - present)
-- Huron Lodge Long Term Care Home (June 2012 - Aug 2016)
+- Grand River Hospital Emergency Department (2020)
+- Huron Lodge Long Term Care Home (2012 - 2016)
 
 ### My research:
 - Waite Research Group - Drone Delivery Project PharmD Research Assistant (January 2021 - present)
