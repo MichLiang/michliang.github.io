@@ -6,15 +6,15 @@ title: About Me
 
 > Hello!
 
-> My name's Michelle Liang, and I'm 25 this year. I live in Waterloo, Ontario, Canada, and I'm a recent graduate from the University of Waterloo. 
+> My name's Michelle Liang, and I'm 25 this year. I live in Waterloo, Ontario, Canada, and I'm an oncology pharmacist at Grand River Hospital.
 
 > I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
 
 
 ### My pharmacy work:
 
-- University of Waterloo School of Pharmacy Graduate Teaching Assistant (2023)
 - Grand River Hospital Oncology and Nephrology (2022 - present)
+- University of Waterloo School of Pharmacy Graduate Teaching Assistant (2023 - present)
 - Two Rivers Family Health Team (2022)
 - Preston Medical Pharmacy (2022)
 - Government of Canada, Health Canada (May 2021 - present)
@@ -79,6 +79,7 @@ title: About Me
 - [TIP Network joins True North 2019](https://uwaterloo.ca/pharmacy/news/pharmacy-students-join-technology-leaders-true-north)  
 - [HackRx: ](https://uwaterloo.ca/pharmacy/news/hackrx-us-students-across-canada-invited-pharmacy-and)[First Ever Pharmacy Hackathon](https://uwaterloo.ca/pharmacy/news/hackrx-big-success-attendees-share-experiences-first)
 - [Leadership of Women in STEM Takeover on SuperPosition Toronto](https://www.instagram.com/p/CJ2CcP4AqWW/)
+- [Rx2022 White Coat Ceremony](https://uwaterloo.ca/pharmacy/news/rx2022-welcomed-white-coat-ceremony)
 - [OPSIS 2021: UWaterloo and UofT](https://pharmacy.utoronto.ca/news-announcements/ontario-pharmd-students-look-pharmacys-horizons-student-conference)  
 - [Students selected to meet the Prime Minister of Canada Justin Trudeau at the National Univerity of Singapore](https://www.facebook.com/nus.singapore/videos/556982028082497/?__cft__[0]=AZVKz3ullWhAxUJUx7qr7n03mdwSe2f6Sdlx6lelUC1fAo3xruM-fCmnKqRuzI4t-R7t9wvohFl5uim9Rz9ruJ-io-aRYNpZIrlrbTMVMW67LHiLaFsWX0I4vJbl3zIIkQ_KMJRltHQOxUCzxOSCEm7a&__tn__=-UK-R)  
 - [Schulich Leader in STEM: Michelle Liang](https://www.schulichleaders.com/michelle-liang)  
