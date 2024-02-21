@@ -14,6 +14,7 @@ title: About Me
 ### My pharmacy work:
 
 - Grand River Hospital: Internal Medicine, Oncology, Nephrology (2022 - present)
+- Ontario Pharmacists Association (2023 - present)
 - University of Waterloo School of Pharmacy Graduate Teaching Assistant (2023 - present)
 - Two Rivers Family Health Team (2022)
 - Preston Medical Pharmacy (2022)
@@ -31,7 +32,7 @@ title: About Me
 - Huron Lodge Long Term Care Home (2012 - 2016)
 
 ### My research:
-- Waite Research Group - Drone Delivery Project PharmD Research Assistant (January 2021 - present)
+- Waite Research Group - Drone Delivery Project PharmD Research Assistant (Jan 2021 - Aug 2022)
 
 ### My education:
 
@@ -50,9 +51,9 @@ title: About Me
 - LivingWorks suicide prevention trained
 
 ### Pharmacy softwares:
-- Retail: Kroll, Delta, Nexxsys
+- Retail: Kroll, Delta, Nexxsys (Pharmaclik Rx)
 - FHT: PSS
-- Hospital: Cerner, OPIS, Renal Insight
+- Hospital: Cerner (MedsManager), OPIS, Renal Insight
 
 ### Activities:
 - Technology in Pharmacy Network (Co-Founder)
