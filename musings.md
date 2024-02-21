@@ -15,7 +15,7 @@ title: Books of 2023-2024
 - 4/10 | It Starts With Us by Colleen Hoover 
 - 4/10 | The Seven Husbands of Evelyn Hugo by Taylor Reid 
 - 7.5/10 | Throne of Glass by Sarah J Maas 
-- 7/10 Verity by Colleen Hoover
+- 7/10 | Verity by Colleen Hoover
 - 2/10 | Happy Place by Emily Henry
 - 9.5/10 | Fourth Wing by Rebecca Yarros
 - 8/10 | Where the Crawdads Sing by Delia Owens
