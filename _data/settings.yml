@@ -3,9 +3,9 @@ menu:
 - {name: 'About', url: 'about.html'}
 - {name: 'Notes', url: 'notes.html'}
 - {name: 'Art Portfolio', url: 'portfolio.html'}
+- {name: 'Musings', url: 'musings.html'}
 - {name: 'Side Projects', url: 'sideprojects.html'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'fab fa-github fa-2x', link: 'https://github.com/MichLiang'}
 - {icon: 'fab fa-linkedin fa-2x', link: 'http://www.linkedin.com/in/michelleliangpharmd/'} 
