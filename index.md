@@ -3,9 +3,9 @@ layout: default
 title: Michelle Liang
 ---
 
-# Pharmacist from the University of Waterloo, Digital Artist at home
+# Pharmacist from the University of Waterloo
 
-Hi, my name's Michelle, and I'm a PharmD graduate and pharmacist working in hospital oncology. On the side, I enjoy creating art, learning about UI/UX, and trying my hand at learning how to code.
+Hi, my name's Michelle, and I'm a PharmD graduate and hospital pharmacist working in internal medicine. On the side, I enjoy creating art, learning about UI/UX, and trying my hand at learning how to code.
 
 
 
