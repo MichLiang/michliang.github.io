@@ -49,6 +49,7 @@ title: Books of 2023 - 2024
 
 4/10 | It Starts With Us by Colleen Hoover
   - This sequel felt a bit unnecessary, and although it was a happy ending, I felt it could've been summed up as an epilogue in the original book.
+
 7.5/10 | It Ends With Us by Colleen Hoover
   - I have to give this book kudos, because after I DNF'd two other books, this one finally pulled me out of my 10-year reading slump. It's a quick read.
   - I did not expect it to be about domestic abuse (it's marketed as a romance novel).
