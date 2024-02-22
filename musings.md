@@ -7,6 +7,7 @@ title: Books of 2023 - 2024
 > Recently, I've started dabbling in reading again (mainly recommendations from friends, family, NYT best sellers, and BookTok). I've collected some thoughts here, mostly to help myself keep track.
 
 ### 2024 Reads:
+
 4/10 | The Invisible Life of Addie Larue by V. E. Schwab
 
   - I don't really feel like there was a plot in this book. The writing itself was quite lyrical, but I found it hard to get through.
@@ -17,6 +18,7 @@ title: Books of 2023 - 2024
   - But the ending was great and I was pleasantly surprised with how the pace picked up.
 
 ### 2023 Reads:
+
 8/10 | A Ballad of Songbirds and Snakes by Suzanne Collins 
 
   - Mostly wanted to read this prior to the movie coming out, and the Hunger Games trilogy was one of my favourite series growing up.
