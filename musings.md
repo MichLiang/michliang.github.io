@@ -24,7 +24,7 @@ title: Books of 2023 - 2024
   -  Foreword by Abraham Verghese was hagiographic and contradictory. The epilogue written by Dr. Lucy Kalanithi however, was one of the most heartbreaking, stunning, and eloquent pieces I've read - she is a natural writer.
 
 6/10 | A Court of Mist and Fury (ACOMAF) by Sarah J Maas
-  -  I heard the second book of the series was incredible despite my experience with the dismal first. Unfortunately, it was not all that much better in my opinion. Also did not like Rhys, he made me feel uncomfy.
+  -  I heard the second book of the series was incredible despite my dismal experience with the first. Unfortunately, it was not all that much better in my opinion. Also did not like Rhys, he made me feel uncomfy.
 
 4/10 | A Court of Thorns and Roses (ACOTAR) by Sarah J Maas
   - The writing felt very unpolished and inconsistent and I could not relate to the main character at all. Also, ellipses just showed up in the oddest places.
