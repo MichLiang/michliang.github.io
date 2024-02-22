@@ -14,17 +14,17 @@ title: About Me
 ### My pharmacy work:
 
 - Grand River Hospital: Internal Medicine, Oncology, Nephrology (2022 - present)
-- Ontario Pharmacists Association (2023 - present)
+- Ontario Pharmacists Association, Healthcare Consultant (2023 - present)
 - University of Waterloo School of Pharmacy Graduate Teaching Assistant (2023 - present)
 - Two Rivers Family Health Team (2022)
 - Preston Medical Pharmacy (2022)
-- Government of Canada, Health Canada (May 2021 - present)
-- Centre for Family Medicine (Mar 2021 - present)
-- PharmAssess Diagnostics Corp. (Sept 2020 - present)
-- Rexall Pharmacy Group Ltd. (Sept 2020 - Dec 2020)
-- Shoppers Drug Mart (June 2020 - Sept 2020)
-- Costco Wholesale Pharmacy (Jan 2020 - present)
-- Totten Pharmacy (May 2012 - Sept 2017)
+- Costco Wholesale Pharmacy (2020 - 2022)
+- Government of Canada, Health Canada (2021)
+- Centre for Family Medicine (2021)
+- PharmAssess Diagnostics Corp. (2020 - 2021)
+- Rexall Pharmacy Group Ltd. (2020)
+- Shoppers Drug Mart (2020)
+- Totten Pharmacy (2012 - 2017)
 
 ### My volunteer experience in healthcare:
 
@@ -32,7 +32,7 @@ title: About Me
 - Huron Lodge Long Term Care Home (2012 - 2016)
 
 ### My research:
-- Waite Research Group - Drone Delivery Project PharmD Research Assistant (Jan 2021 - Aug 2022)
+- Waite Research Group - Drone Delivery Project, PharmD Research Assistant (Jan 2021 - Aug 2022)
 
 ### My education:
 
@@ -43,7 +43,9 @@ title: About Me
 
 ### My certifications:
 
+- ApoSecure lenalidomide trained
 - Smoking cessation trained
+- Minor ailments trained
 - Injections trained
 - National Lifeguard Services certified (NLS, Pool)
 - Standard first aid & CPR-C
