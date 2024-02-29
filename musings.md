@@ -4,9 +4,14 @@ title: Books of 2023 - 2024
 ---
 
 
-> Recently, I've started dabbling in reading again (mainly recommendations from friends, family, NYT best sellers, and BookTok). I've collected some thoughts here, mostly to help myself keep track.
+> Recently, I've started dabbling in reading again (mainly recommendations from friends, family, NYT best sellers, and BookTok). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers here!
 
 ### 2024 Reads:
+
+7.5/10 | Iron Flame by Rebecca Yarros
+
+  - I really wanted to love this book (to be fair, it did keep me engaged), but it wasn't on the same level as Fourth Wing. The characters weren't as charismatic this time around, and it felt less organized and action-packed.
+  - I liked the small details (like how Xaden requested to meet Jesinia, which was a hint towards his second signet), so I'm hoping this book will set us up nicely for the rest of the series.
 
 4/10 | The Invisible Life of Addie Larue by V. E. Schwab
 
