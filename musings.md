@@ -8,6 +8,15 @@ title: Books of 2023 - 2024
 
 ### 2024 Reads:
 
+7/10 | Midwives by Chris Bohjalian
+
+  - Not my usual read, however was recommended by a colleague, and I really enjoyed the change of pace! The book is about a very experienced lay midwife assisting with a home birth that requires an emergency C-section, and later focuses on an unfolding investigation and courtroom drama.
+  - The ending was very unexpected which pleasantly surprised me.
+    
+3/10 | You've Reached Sam by Dustin Thao
+
+  - I didn't really enjoy how there were more questions than answers by the end of the book. Also, main character was a little bit unlikable, and the relationships lacked dimension.
+    
 7.5/10 | Iron Flame by Rebecca Yarros
 
   - I really wanted to love this book (to be fair, it did keep me engaged), but it wasn't on the same level as Fourth Wing. The characters weren't as charismatic this time around, and it felt less organized and action-packed.
