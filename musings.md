@@ -63,6 +63,7 @@ Currently listening to:
   - The writing felt very unpolished and inconsistent and I could not relate to the main character at all. Also, ellipses just showed up in the oddest places.
 
 8/10 | Where the Crawdads Sing by Delia Owens
+
   - A coming of age, murder mystery, and love story about Kya, aka the Marsh girl, who is abandoned by her family and learns to fend for herself in the wild.
   - Getting through the first half of this book (I had to skim through large passages) and getting used to the dialect was difficult, but I ended up staying up until 2am finishing the second half.
 
@@ -77,6 +78,7 @@ Currently listening to:
   - Felt there wasn't any plot, and the main character gives up her years of medical school and residency training to suddenly pursue pottery.
 
 7/10 | Verity by Colleen Hoover
+
   - A husband hires a ghost writer to complete a book series that his injured wife can no longer finish.
   - Did this thriller give me nightmares? Yes. Was this an entertaining read? Also yes.
 
