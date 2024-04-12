@@ -4,7 +4,14 @@ title: Books of 2023 - 2024
 ---
 
 
-> Recently, I've started dabbling in reading again (mainly recommendations from friends, family, NYT best sellers, and BookTok). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers here!
+> Recently, I've started reading again (mainly recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
+
+Currently reading:
+- Atomic Habits by James Clear
+- The Three Body Problem by Liu Cixin
+
+Currently listening to:
+- I'm Glad My Mom Died by Jennette McCurdy
 
 ### 2024 Reads:
 
