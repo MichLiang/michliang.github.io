@@ -17,8 +17,8 @@ Currently listening to:
 
 7/10 | Midwives by Chris Bohjalian
 
-  - Not my usual read, however was recommended by a colleague and I really enjoyed the change of pace!
   - The book is about a very experienced lay midwife assisting with a home birth that ends up requiring an emergency C-section. Later the book is mainly a courtroom drama.
+  - Not my usual read, however was recommended by a colleague and I really enjoyed the change of pace!
     
 3/10 | You've Reached Sam by Dustin Thao
   - About how a girl's boyfriend dies, and then somehow they're still able to communicate through phone call.
@@ -31,12 +31,12 @@ Currently listening to:
 
 4/10 | The Invisible Life of Addie Larue by V. E. Schwab
 
-  - France, 1714: a young woman makes a Faustian bargain to live forever and is cursed to be forgotten by everyone she meets.
+  - Set in France, 1714, a young woman makes a Faustian bargain to live forever and is cursed to be forgotten by everyone she meets.
   - I don't really feel like there was a plot in this book. The writing itself was quite lyrical, but I found it hard to get through.
 
 4/10 | The Song of Achilles by Madeline Miller
 
-  - Patroclus is an awkward young prince, exiled from his homeland after accidentally pushing a boy to death. He meets Achilles soon after.
+  - The main character is a young prince who gets exiled from his homeland after accidentally pushing a boy to death. He meets Achilles soon after.
   - The beginning was very slow and I was a bit disappointed about how Patroclus wasn't portrayed as one of Achaeans’ most formidable warriors (Achilles' equal) like in the Iliad.
   - But the ending was great and I was pleasantly surprised with how the pace picked up.
 
@@ -69,7 +69,7 @@ Currently listening to:
 
 9/10 | Fourth Wing by Rebecca Yarros
 
-  - Violet Sorrengail enters a war college for dragon riders, and has to go through several trials to survive.
+  - About how the main character, Violet, enters a war college for dragon riders, and has to go through several trials to survive.
   - Found the characters/dragons to be very likable, and the book felt like a combination of HP, Divergent, Hunger Games, Eragon, and GoT. A fun read!
 
 2/10 | Happy Place by Emily Henry
