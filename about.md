@@ -76,7 +76,8 @@ title: About Me
 - Ballroom and Latin dance
 
 ### News:
-- [Michelle Liang’s PillMatch proposes using machine learning to make pill identification more efficient](https://uwaterloo.ca/pharmacy/news/michelle-liangs-pillmatch-proposes-using-machine-learning)  
+- [Michelle Liang’s PillMatch proposes using machine learning to make pill identification more efficient](https://uwaterloo.ca/pharmacy/news/michelle-liangs-pillmatch-proposes-using-machine-learning)
+- [CAP UW School of Pharmacy Brochure 2024]([https://www.youtube.com/watch?v=nBoRmttfclM](https://uwaterloo.ca/pharmacy/sites/default/files/uploads/documents/fp2369-pharmacy-2024_lr-final-ua.pdf))
 - [Celebrating Pharmacy Appreciation Month at Grand River Hospital](https://www.youtube.com/watch?v=nBoRmttfclM)
 - [Ontario Pharmacists Association: Pharmacy Appreciation Month Billboard](https://www.opatoday.com/pharmacy-appreciation-month-2024/)
 - [1000+ Flu Shots and Counting: Pharmacy Student Reflects on Being an Immunizer](https://uwaterloo.ca/pharmacy/news/1000-flu-shots-and-counting-pharmacy-student-reflects-being)  
