@@ -16,7 +16,7 @@ Currently reading:
 7.5/10 | I'm Glad My Mom Died by Jennette McCurdy (Audiobook)
 
  - A memoir by iCarly and Sam & Cat star Jennette McCurdy about her struggles as a former child actor.
- - This was my first audiobook, and it was very well done piece of a unique human experience. The fact that Jennette herself reads it really adds to the experience.
+ - This was my first audiobook, and it was very well done account of a unique human experience. The fact that Jennette herself reads it really adds to the experience.
   
 7/10 | Midwives by Chris Bohjalian
 
