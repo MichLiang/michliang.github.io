@@ -10,17 +10,21 @@ Currently reading:
 - Atomic Habits by James Clear
 - The Three Body Problem by Liu Cixin
 
-Currently listening to:
-- I'm Glad My Mom Died by Jennette McCurdy
 
 ### 2024 Reads:
 
+7.5/10 | I'm Glad My Mom Died by Jennette McCurdy (Audiobook)
+
+ - A memoir by iCarly and Sam & Cat star Jennette McCurdy about her struggles as a former child actor.
+ - This was my first audiobook, and it was very well done piece of a unique human experience. The fact that Jennette herself reads it really adds to the experience.
+  
 7/10 | Midwives by Chris Bohjalian
 
   - The book is about a very experienced lay midwife assisting with a home birth that ends up requiring an emergency C-section. Later the book is mainly a courtroom drama.
   - Not my usual read, however was recommended by a colleague and I really enjoyed the change of pace!
     
 3/10 | You've Reached Sam by Dustin Thao
+
   - About how a girl's boyfriend dies, and then somehow they're still able to communicate through phone call.
   - I didn't really enjoy how there were more questions than answers by the end of the book. Also, main character was a little bit unlikable, and the relationships lacked dimension.
     
