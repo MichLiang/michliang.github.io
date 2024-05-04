@@ -7,12 +7,16 @@ title: Books of 2023 - 2024
 > Recently, I've started reading again (mainly recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
 
 Currently reading:
-- Atomic Habits by James Clear
 - The Three Body Problem by Liu Cixin
 
 
 ### 2024 Reads:
 
+9/10 | Atomic Habits by James Clear
+
+ - The style of the book is dogmatic and actionable, which lays out a list of practical methods that will benefit and spur habit creation, thus breaking the bad ones.
+ - I found it helpful to keep a pen and paper beside me while reading to write down things I can immediately incorporate into my life.
+   
 7.5/10 | I'm Glad My Mom Died by Jennette McCurdy (Audiobook)
 
  - A memoir by iCarly and Sam & Cat star Jennette McCurdy about her struggles as a former child actor.
