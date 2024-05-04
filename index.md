@@ -3,9 +3,9 @@ layout: default
 title: Michelle Liang
 ---
 
-# Pharmacist • Artist • Swimmer • Instrumentalist
+# Hi, I'm Michelle!
 
-Hi, my name's Michelle, and I'm a hospital pharmacist working in internal medicine. On the side, I enjoy creating art, learning about UI/UX, and trying my hand at learning how to code.
+I'm a hospital pharmacist working in internal medicine. On the side, I enjoy creating art, learning about UI/UX, and trying my hand at learning how to code.
 
 
 
