@@ -148,36 +148,3 @@ Social media icons
 .fa-linkedin:hover {
   color: #3c6ffd;
 }
-
-/*
-Dark mode
-*/
-
-.switch-container {
-  display: flex;
-  margin-top: 20px;
-}
- 
-.switch {
-  align-self: flex-end;
-  margin: auto;
-}
-
-.inner-switch {
-  display: inline-block;
-  cursor: pointer;
-  border: 1px solid #555;
-  border-radius: 1.25rem;
-  width: 3.125rem;
-  text-align: center;
-  font-size: 1rem;
-  padding: 0.1875rem;
-  margin-left: 0.3125rem;
-}
-
-.dark,
-.dark * {
-  background-color: #222;
-  color: #e6e6e6 !important;
-  border-color: #e6e6e6 !important;
-}
