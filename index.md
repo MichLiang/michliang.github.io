@@ -9,6 +9,4 @@ I'm a hospital pharmacist working in internal medicine. On the side, I enjoy cre
 
 
 
-<i> Special thanks to 
-    <a href="https://www.raphaelkoh.me"> Raphael </a> 
-for mentoring me throughout the process of making this website!
+<i> Special thanks to <a href="https://www.raphaelkoh.me"> Raphael </a> for mentoring me throughout the process of making this website!</i>
