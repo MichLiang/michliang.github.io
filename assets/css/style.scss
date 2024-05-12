@@ -148,3 +148,25 @@ Social media icons
 .fa-linkedin:hover {
   color: #3c6ffd;
 }
+
+/*
+Parallax
+*/
+
+.background {
+  position: fixed;
+  top: 70%;
+  left: 10%;
+  width:200px;
+  height:200px;
+  background-image: url(../newwebste/Moon.png);
+  background-size: contain;
+}
+
+.wrapper {
+  height: 200vh;
+}
+
+#mliangvector {
+  scale: 81%;
+}
