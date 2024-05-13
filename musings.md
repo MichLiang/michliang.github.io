@@ -43,7 +43,7 @@ Currently reading:
   - Sanderson said that he was inspired while watching The Princess Bride with his family to ask the question “What… if Buttercup had gone searching for Wesley, instead of immediately giving him up for dead?”
   - Princess Bride being one of my favourite books of all time, I so enjoyed this whimsical, light-hearted, and cozy read that evoked the spirit of the original.
     
-7.5/10 | Iron Flame by Rebecca Yarros | Recommended by: BookTok
+7.5/10 | Iron Flame by Rebecca Yarros | Recommended by: BookTok, my sisters-in-law
 
   - I really wanted to love this book (to be fair, it did keep me engaged), but it wasn't on the same level as Fourth Wing. The characters weren't as charismatic this time around, and it felt less organized and action-packed.
   - I liked the small details (like how Xaden requested to meet Jesinia, which was a hint towards his second signet), so I'm hoping this book will set us up nicely for the rest of the series.
@@ -91,7 +91,7 @@ Currently reading:
   - About how the main character, Violet, enters a war college for dragon riders, and has to go through several trials to survive.
   - Found the characters/dragons to be very likable, and the book felt like a combination of HP, Divergent, Hunger Games, Eragon, and GoT. A fun read!
 
-2/10 | Happy Place by Emily Henry | Recommended by: my sisters-in-law, BookTok
+2/10 | Happy Place by Emily Henry | Recommended by: BookTok, my sisters-in-law
 
   - Perhaps romance is just not my genre, but it took me months to finish this one.
   - Felt there wasn't any plot, and the main character gives up her years of medical school and residency training to suddenly pursue pottery.
