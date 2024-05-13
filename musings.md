@@ -91,7 +91,7 @@ Currently reading:
   - About how the main character, Violet, enters a war college for dragon riders, and has to go through several trials to survive.
   - Found the characters/dragons to be very likable, and the book felt like a combination of HP, Divergent, Hunger Games, Eragon, and GoT. A fun read!
 
-2/10 | Happy Place by Emily Henry | Recommended by: my sister-in-laws
+2/10 | Happy Place by Emily Henry | Recommended by: my sisters-in-law, BookTok
 
   - Perhaps romance is just not my genre, but it took me months to finish this one.
   - Felt there wasn't any plot, and the main character gives up her years of medical school and residency training to suddenly pursue pottery.
