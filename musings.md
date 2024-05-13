@@ -28,17 +28,17 @@ Currently reading:
  - A memoir by iCarly and Sam & Cat star Jennette McCurdy about her struggles as a former child actor.
  - This was my first audiobook, and it was very well done account of a unique human experience. The fact that Jennette herself reads it really adds to the experience.
   
-7/10 | Midwives by Chris Bohjalian | Recommended by: Abbey (coworker)
+7/10 | Midwives by Chris Bohjalian | Recommended by: Abbey (my coworker)
 
   - The book is about a very experienced lay midwife assisting with a home birth that ends up requiring an emergency C-section. Later the book is mainly a courtroom drama.
   - Not my usual read, however was recommended by a colleague and I really enjoyed the change of pace!
     
-3/10 | You've Reached Sam by Dustin Thao | Recommended by: Francesca (sister-in-law)
+3/10 | You've Reached Sam by Dustin Thao | Recommended by: Francesca (my sister-in-law)
 
   - About how a girl's boyfriend dies, and then somehow they're still able to communicate through phone call.
   - I didn't really enjoy how there were more questions than answers by the end of the book. Also, main character was a little bit unlikable, and the relationships lacked dimension.
 
-9.5/10 | Tress of the Emerald Sea by Brandon Sanderson | Recommended by: Abbey (coworker)
+9.5/10 | Tress of the Emerald Sea by Brandon Sanderson | Recommended by: Abbey (my coworker)
 
   - Sanderson said that he was inspired while watching The Princess Bride with his family to ask the question “What… if Buttercup had gone searching for Wesley, instead of immediately giving him up for dead?”
   - Princess Bride being one of my favourite books of all time, I so enjoyed this whimsical, light-hearted, and cozy read that evoked the spirit of the original.
@@ -53,7 +53,7 @@ Currently reading:
   - Set in France, 1714, a young woman makes a Faustian bargain to live forever and is cursed to be forgotten by everyone she meets.
   - I don't really feel like there was a plot in this book. The writing itself was quite lyrical, but I found it hard to get through.
 
-4/10 | The Song of Achilles by Madeline Miller | Recommended by: Francesca (sister-in-law)
+4/10 | The Song of Achilles by Madeline Miller | Recommended by: Francesca (my sister-in-law)
 
   - The main character is a young prince who gets exiled from his homeland after accidentally pushing a boy to death. He meets Achilles soon after.
   - The beginning was very slow and I was a bit disappointed about how Patroclus wasn't portrayed as one of Achaeans’ most formidable warriors (Achilles' equal) like in the Iliad.
@@ -91,7 +91,7 @@ Currently reading:
   - About how the main character, Violet, enters a war college for dragon riders, and has to go through several trials to survive.
   - Found the characters/dragons to be very likable, and the book felt like a combination of HP, Divergent, Hunger Games, Eragon, and GoT. A fun read!
 
-2/10 | Happy Place by Emily Henry | Recommended by: BookTok
+2/10 | Happy Place by Emily Henry | Recommended by: my sister-in-laws
 
   - Perhaps romance is just not my genre, but it took me months to finish this one.
   - Felt there wasn't any plot, and the main character gives up her years of medical school and residency training to suddenly pursue pottery.
