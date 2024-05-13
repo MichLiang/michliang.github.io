@@ -153,6 +153,25 @@ Social media icons
 Parallax
 */
 
+
+ body {
+  background-image: url(../newwebste/Sky.png);
+  background-color: #ffffff; 
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
+ body {
+  background-image: url(../newwebste/Mountain.png);
+  background-color: #ffffff; 
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
 .background {
   position: fixed;
   bottom: 5vh;
@@ -171,21 +190,3 @@ Parallax
   scale: 81%;
 }
 
- body {
-  background-image: url(../newwebste/Mountain.png);
-  background-color: #ffffff; 
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat; 
-  background-size: cover; 
-}
-
-
- body {
-  background-image: url(../newwebste/Sky.png);
-  background-color: #ffffff; 
-  height: 600px;
-  background-position: center;
-  background-repeat: no-repeat; 
-  background-size: cover; 
-}
