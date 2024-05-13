@@ -13,7 +13,8 @@ Currently reading:
 
 ### 2024 Reads:
 
-The Three Body Problem by Cixin Liu and Ken Liu | 8/10 | Recommended by: Raphael (my husband)
+8/10 | The Three Body Problem by Cixin Liu and Ken Liu | Recommended by: Raphael (my husband)
+
 - Set in the Chinese Cultural Revolution, a secret military project sends signals into space to establish contact with the Trisolarans.
 - Such interesting concepts were presented in this book, and I especially enjoyed living through each civilization Wang experienced in the Three Body game.
 
