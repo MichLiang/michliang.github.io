@@ -66,7 +66,7 @@ Currently reading:
   - Mostly wanted to read this prior to the movie coming out, and the Hunger Games trilogy was one of my favourite series growing up.
   - Really enjoyed this book, but the turn at the very end felt a bit rushed.
 
-9/10 | When Breath Becomes Air by Paul Kalanithi | Recommended by: BookTok
+9/10 | When Breath Becomes Air by Paul Kalanithi | Recommended by: Pulitzer Prize Finalists, Biography, 2017
 
   - I never tended to reach for non-fiction, but this memoir by a young neurosurgeon faced with a terminal cancer diagnosis was a fantastic read. I read this while working in oncology, and it gave me a lot to think about.
   -  Foreword by Abraham Verghese was hagiographic and contradictory. The epilogue written by Dr. Lucy Kalanithi however, was one of the most heartbreaking, stunning, and eloquent pieces I've read - she is a natural writer.
