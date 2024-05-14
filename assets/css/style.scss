@@ -40,8 +40,7 @@ Menu
 
 .menu {
   position: fixed;
-  background-color: rgb(255, 255, 255);
-  opacity: 0.8;
+  background-color: rgba(0,0,0,0.1);
   top: 0;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -62,7 +61,7 @@ Menu
 }
 
 .menu-content a {
-  color: black;
+  color: white;
   opacity: 1;
   font-size: 1rem;
   padding-right: 10px;
@@ -161,18 +160,10 @@ Parallax
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover; 
+  color: white;
 }
 
- body {
-  background-image: url(../newwebste/Mountain.png);
-  background-color: #ffffff; 
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat; 
-  background-size: cover; 
-}
-
-.background {
+.moon {
   position: fixed;
   bottom: 5vh;
   left: 5vw;
@@ -180,10 +171,25 @@ Parallax
   height: 10vh;
   background-image: url(../newwebste/Moon.png);
   background-size: contain;
+  z-index: 3;
+}
+
+.mountain {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-image: url(../newwebste/Mountain.png);
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  height: 100%;
+  width: 100%;
+  z-index: 2;
 }
 
 .wrapper {
-  height: 200vh;
+  z-index: 3;
+  position: relative;
 }
 
 #mliangvector {

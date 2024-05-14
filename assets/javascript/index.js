@@ -6,7 +6,7 @@ window.addEventListener("scroll", function () {
   const speed = maxDegreesToRotate / document.documentElement.scrollHeight;
   const rotation = scrollPosition * speed;
   const rotationStr = `rotate(${rotation}deg)`;
-  $(".background").css({
+  $(".moon").css({
     transform: rotationStr,
   });
 });
