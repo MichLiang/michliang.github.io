@@ -179,13 +179,15 @@ html, body {
 body {
   background-image: url(../newwebste/Sky.png);
   background-color: #ffffff; 
-  height: 600px;
+  height: 500px;
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover; 
   color: white;
   background-attachment: fixed;
 }
+<!-- Container element -->
+<div class="parallax"></div>
 
 .moon {
   position: fixed;
@@ -198,6 +200,12 @@ body {
   z-index: 3;
 }
 
+.wrapper {
+  z-index: 3;
+  position: relative;
+}
+
+
 .mountain {
   position: fixed;
   top: 0;
@@ -209,11 +217,6 @@ body {
   height: 100%;
   width: 100%;
   z-index: 2;
-}
-
-.wrapper {
-  z-index: 3;
-  position: relative;
 }
 
 #mliangvector {
