@@ -36,24 +36,18 @@
     <div class="moon">
       <img src="/assets/newwebste/MLiangVector.svg" id="mliangvector"> 
     </div>
+
+    {% include default/menu.html %}
+
     <div class="wrapper">
+      <div class="content">
+        {{ content }}
+      </div>
 
-      <section>
-
-        {% include default/menu.html %}
-        
-        <div class="content">
-          {{ content }}
-        </div>
-
-        <div style="display: flex">
-           <nav class="social-icons" style="margin: auto">{% include default/social-icons.html %}</nav>
-        </div>
-        
-      </section>
-    
+      <div style="display: flex">
+          <nav class="social-icons" style="margin: auto">{% include default/social-icons.html %}</nav>
+      </div>
     </div>
     <script src="{{ "/assets/javascript/index" | append: ".js?v=" | append: site.github.build_revision | relative_url }}"></script>
-    
   </body>
 </html>
