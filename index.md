@@ -7,6 +7,10 @@ title: Michelle Liang
 # My website is undergoing construction May 2024
 (Which is why there is a moon spinning around in the bottom left corner)
 
+        <div style="display: flex">
+           <nav class="social-icons" style="margin: auto">{% include default/social-icons.html %}</nav>
+        </div>
+        
 I'm a hospital pharmacist working in internal medicine. On the side, I enjoy creating art, learning about UI/UX, and trying my hand at learning how to code.
 
 
