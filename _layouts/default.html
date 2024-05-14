@@ -45,16 +45,16 @@
         <div class="content">
           {{ content }}
         </div>
+        
+        <div style="display: flex">
+           <nav class="social-icons" style="margin: auto">{% include default/social-icons.html %}</nav>
+        </div>
 
       </section>
       
       {% include default/footer.html %}
     </div>
     <script src="{{ "/assets/javascript/index" | append: ".js?v=" | append: site.github.build_revision | relative_url }}"></script>
-
-    <div style="display: flex">
-       <nav class="social-icons" style="margin: auto">{% include default/social-icons.html %}</nav>
-    </div>
     
   </body>
 </html>
