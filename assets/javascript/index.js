@@ -12,6 +12,8 @@ window.addEventListener("scroll", function () {
   });
 });
 
+//moop code
+
 window.onscroll = function (e) {
   var vertical_position = 0;
   if (pageYOffset)//usual
