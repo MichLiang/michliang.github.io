@@ -33,13 +33,12 @@
     border-radius: 23px;
     outline: none;
     transition: 0.4s;
-    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6); 
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.6); 
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .accordion:hover {
     background-color: rgba(49, 140, 231, 0.4);
-    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6); 
 }
 
 /* Style the accordion panel. Note: hidden by default */
