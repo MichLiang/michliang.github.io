@@ -23,7 +23,7 @@
 // accordion stuff
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
-    background-color: rgba(0, 102, 178, 0.6);
+    background-color: rgba(49, 140, 231, 0.6);
     color: rgba(255, 255, 255, 1);
     cursor: pointer;
     padding: 18px;
@@ -37,7 +37,7 @@
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .accordion:hover {
-    background-color: rgba(0, 102, 178, 0.4);
+    background-color: rgba(49, 140, 231, 0.4);
 }
 
 /* Style the accordion panel. Note: hidden by default */
