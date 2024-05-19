@@ -4,7 +4,7 @@ title: Books of 2023 - 2024
 ---
 
 
-> Recently, I've started reading again (mainly recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
+> Recently, I've started reading again (recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
 
 Currently reading:
 - Why We Swim by Bonnie Tsui
