@@ -53,16 +53,16 @@ Currently reading:
   - I really wanted to love this book (to be fair, it did keep me engaged), but it wasn't on the same level as Fourth Wing. The characters weren't as charismatic this time around, and it felt less organized and action-packed.
   - I liked the small details (like how Xaden requested to meet Jesinia, which was a hint towards his second signet), so I'm hoping this book will set us up nicely for the rest of the series.
 
-4/10 | The Invisible Life of Addie Larue by V. E. Schwab | Recommended by: BookTube
+3/10 | The Invisible Life of Addie Larue by V. E. Schwab | Recommended by: BookTube
 
   - Set in France, 1714, a young woman makes a Faustian bargain to live forever and is cursed to be forgotten by everyone she meets.
   - I don't really feel like there was a plot in this book. The writing itself was quite lyrical, but I found it hard to get through.
 
-4/10 | The Song of Achilles by Madeline Miller | Recommended by: Francesca (my sister-in-law)
+4.5/10 | The Song of Achilles by Madeline Miller | Recommended by: Francesca (my sister-in-law)
 
   - The main character is a young prince who gets exiled from his homeland after accidentally pushing a boy to death. He meets Achilles soon after.
-  - The beginning was very slow and I was a bit disappointed about how Patroclus wasn't portrayed as one of Achaeans’ most formidable warriors (Achilles' equal) like in the Iliad.
-  - But the ending was great and I was pleasantly surprised with how the pace picked up.
+  - The beginning was very slow and I was a bit disappointed with how Patroclus wasn't portrayed as one of Achaeans’ most formidable warriors (Achilles' equal) like in the Iliad.
+  - But the ending was great and I was pleasantly surprised with how the pace picked up. If I could split up ratings, the first part of the book was 1/10, and the second part was 8/10.
 
 ### 2023 Reads:
 
