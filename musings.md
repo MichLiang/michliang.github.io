@@ -7,13 +7,18 @@ title: Books of 2023 - 2024
 > Recently, I've started reading again (mainly recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
 
 Currently reading:
-- The Women by Kristin Hannah
+- Why We Swim by Bonnie Tsui
 - Tomorrow and Tomorrow and Tomorrow  by Gabrielle Zevin
 
 
 ### 2024 Reads:
 
-8/10 | The Three Body Problem by Cixin Liu and Ken Liu | Recommended by: Raphael (my husband)
+8.5/10 | The Women by Kristin Hannah | Recommended by: NYT Best Sellers, Hardcover Fiction
+
+- A historical fiction about a nursing student who is told by her brother’s friend that “women can be heroes too,”. She decides to enlist in the Army Nurse Corps to join her brother in the Vietnam War.
+- Part 1 of the book (in-country) was captivating and eye-opening. Part 2 was a little bit repetitive for me, but appeared very well-researched.
+
+8/10 | The Three Body Problem by Cixin Liu | Recommended by: Raphael (my husband)
 
 - Set in the Chinese Cultural Revolution, a secret military project sends signals into space to establish contact with the Trisolarans.
 - Such interesting concepts were presented in this book, and I especially enjoyed living through each civilization Wang experienced in the Three Body game.
