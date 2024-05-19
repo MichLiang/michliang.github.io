@@ -67,6 +67,7 @@ Currently reading:
 ### 2023 Reads:
 
 8/10 | A Ballad of Songbirds and Snakes by Suzanne Collins | Recommended by: movie just came out
+
   - The tenth annual Hunger Games featuring eighteen-year-old Coriolanus Snow as a mentor for District 12.
   - Mostly wanted to read this prior to the movie coming out, and the Hunger Games trilogy was one of my favourite series growing up.
   - Really enjoyed this book, but the turn at the very end felt a bit rushed.
