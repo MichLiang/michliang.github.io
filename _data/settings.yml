@@ -1,4 +1,5 @@
 menu:
+- {img: MLiangVector.svg}
 - {name: 'Home'}
 - {name: 'About', url: 'about.html'}
 - {name: 'Notes', url: 'notes.html'}
