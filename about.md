@@ -15,7 +15,7 @@ title: About Me
 
 - Grand River Hospital: Internal Medicine, Oncology, Nephrology (2022 - present)
 - Ontario Pharmacists Association (2023 - present)
-- University of Waterloo School of Pharmacy Graduate Teaching Assistant (2023 - present)
+- University of Waterloo School of Pharmacy (2023 - present)
 - Two Rivers Family Health Team (2022)
 - Preston Medical Pharmacy (2022)
 - Costco Wholesale Pharmacy (2020 - 2022)
@@ -28,6 +28,7 @@ title: About Me
 
 ### My volunteer experience in healthcare:
 
+- University of Waterloo, Admissions (2022 - present)
 - Grand River Hospital Emergency Department (2020)
 - Huron Lodge Long Term Care Home (2012 - 2016)
 
