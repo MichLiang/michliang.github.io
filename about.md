@@ -6,7 +6,7 @@ title: About Me
 
 > Hello!
 
-> My name's Michelle Liang. I live in Waterloo, Ontario, Canada, and I'm an internal medicine pharmacist at Grand River Hospital.
+> My name's Michelle Koh (née Liang). I live in Waterloo, Ontario, Canada, and I'm an internal medicine pharmacist at Grand River Hospital.
 
 > I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
 
