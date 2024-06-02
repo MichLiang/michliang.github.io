@@ -3,7 +3,7 @@ menu:
 - {name: 'About', url: 'about.html'}
 - {name: 'Notes', url: 'notes.html'}
 - {name: 'Art Portfolio', url: 'portfolio.html'}
-- {name: 'Musings', url: 'musings.html'}
+- {name: 'Books', url: 'books.html'}
 - {name: 'Side Projects', url: 'sideprojects.html'}
 
 social:
