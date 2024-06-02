@@ -6,7 +6,7 @@ title: About Me
 
 > Hello!
 
-> My name's Michelle Liang, and I'm 26 this year. I live in Waterloo, Ontario, Canada, and I'm an internal medicine pharmacist at Grand River Hospital.
+> My name's Michelle Liang. I live in Waterloo, Ontario, Canada, and I'm an internal medicine pharmacist at Grand River Hospital.
 
 > I have a maltese-shih tzu dog named Lychee, and my favourite foods include dumplings, pho, and red bean ice cream. My current ventures are learning how to code, and teaching myself how to play the violin. A dream of mine is to be on the Amazing Race someday.
 
@@ -14,7 +14,7 @@ title: About Me
 ### My pharmacy work:
 
 - Grand River Hospital: Internal Medicine, Oncology, Nephrology (2022 - present)
-- Ontario Pharmacists Association, Healthcare Consultant (2023 - present)
+- Ontario Pharmacists Association (2023 - present)
 - University of Waterloo School of Pharmacy Graduate Teaching Assistant (2023 - present)
 - Two Rivers Family Health Team (2022)
 - Preston Medical Pharmacy (2022)
