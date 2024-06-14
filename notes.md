@@ -2,8 +2,6 @@
 layout: notes
 title: Notes
 
-These are summary notes I created back when I was a sleep-deprived student. Please use at your own risk (upon reviewing them now in 2024, the notes leave a lot to be desired). Perhaps someday I'll get around to reviewing them properly. For now, enjoy! 
-
 notes:
   - title: Men's Health
     subtitle: Hypogonadism, AA, BPH, ED
@@ -18,6 +16,9 @@ notes:
     subtitle: VTE prophylaxis, acute and chronic treatment
     gdrive: 14cwbMggjFveSQ-Z2Fpg46CFEerv5ELA3
 ---
+
+
+These are summary notes I created back when I was a sleep-deprived student. Please use at your own risk (upon reviewing them now in 2024, the notes leave a lot to be desired). Perhaps someday I'll get around to reviewing them properly. For now, enjoy! 
 
 ## Future notes
 
