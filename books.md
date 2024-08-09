@@ -7,8 +7,7 @@ title: Books of 2023 - 2024
 > Recently, I've started reading again (recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
 
 Currently reading:
-- Why We Swim by Bonnie Tsui
-- Tomorrow and Tomorrow and Tomorrow  by Gabrielle Zevin
+- Legends and Lattes by Travis Baldree
 
 
 ### 2024 Reads:
