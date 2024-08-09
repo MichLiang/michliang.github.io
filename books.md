@@ -13,6 +13,18 @@ Currently reading:
 
 ### 2024 Reads:
 
+7.5/10 | The Silent Patient by Alex Michaelides | Recommended by: BookTok
+
+- A criminal psychotherapist attempts to unravel a mystery surrounding a famous painter, Alicia, who was married to an in-demand fashion photographer. One evening, Alicia shoots her husband five times in the face, and then never speaks another word.
+- That ending, wow. If I could rate just the ending, it would be a 9.5/10. Unfortunately, there were too many loose ends never resolved, caused by the red herring characters the author attempted to throw in throughout the story. Seemed like a means to an end, where a majority of the book was sacrificed to achieve the finishing twist.
+- The story was so quick and snappy - a very easy read. I finished this book in one day.
+
+4/10 | Tomorrow and Tomorrow and Tomorrow by Gabrielle Zevin | Recommended by: BookTok
+
+- A coming-of-age novel about two friends whose lives intertwine up, down, and around their love of gaming. I was really expecting to like this one, seeing as my husband and I both enjoy a good video game.
+- The story was rather dull, and really slowed down especially near the middle which put me in a 2-month reading slump.
+- In my opinion, the author's attempt to weave explorations of societal concerns into the story actually ended up detracting from the plot.
+
 8.5/10 | The Women by Kristin Hannah | Recommended by: NYT Best Sellers, Hardcover Fiction
 
 - A historical fiction about a nursing student who is told by her brother’s friend that “women can be heroes too,”. She decides to enlist in the Army Nurse Corps to join her brother in the Vietnam War.
