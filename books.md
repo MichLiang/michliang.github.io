@@ -7,10 +7,16 @@ title: Books of 2023 - 2024
 > Recently, I've started reading again (recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
 
 Currently reading:
-- Legends and Lattes by Travis Baldree
+- N/A
 
 
 ### 2024 Reads:
+
+7/10 | Red Rising by Pierce Brown | Recommended by: BookTok, sister-in-law
+
+- A sci-fi and dystopian novel following a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works in the mines all day, believing that he and his people are making the surface of Mars livable for future generations.
+- First 35% read like a completely different book, and then latter part felt like a combination of The Hunger Games and Game of Thrones, if they were a bit one-dimensional and unclear.
+- Will I read the second and third book in the series? Yes, the world kept my interest enough for me to give it a try, but I don't have extremely high expectations.
 
 7.5/10 | The Silent Patient by Alex Michaelides | Recommended by: BookTok
 
