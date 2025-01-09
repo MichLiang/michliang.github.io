@@ -1,16 +1,25 @@
 ---
 layout: page
-title: Books of 2023 - 2024
+title: Books of 2023 - 2025
 ---
 
 
 > Recently, I've started reading again (recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
 
 Currently reading:
-- N/A
+- The Grace Year by Kim Liggett
+- Astor: The Rise and Fall of an American Fortune by Anderson Cooper and Katherine Howe
+- The 48 Laws of Power by Robert Greene
 
+### 2025 Reads:
 
 ### 2024 Reads:
+
+7.5/10 | Lessons in Chemistry by Bonnie Garmus | Recommended by: Abbey (coworker), BookTok
+
+- Follows a female chemist in the 1960s and her life amongst the all-male team at Hastings Research. She becomes the reluctant star of a wildly popular cooking show.
+- I especially enjoyed the beginning of the book where we followed the main character's adventures together with Nobel-prize nominated love interest and their dog named Six-Thirty.
+- However, I did find the character a little too pretentious (i.e., speaking in chemical formulas) and two-dimensional, and there was more tell than show, which explains the drop in score.
 
 7/10 | Red Rising by Pierce Brown | Recommended by: BookTok, sister-in-law
 
