@@ -14,6 +14,7 @@ Currently reading:
 ### 2025 Reads:
 
 7.5/10 | The Grace Year by Kim Liggett | Recommended by: GoodReads
+
 - A dystopian novel about how a group of girls are banished for their sixteenth year to return ready for marriage in a very patriarchal world.
 - This book was very fast-paced! I would compare it to Lord of the Flies, The Handmaid's Tale, and The Hunger Games.
 - However, it did read as very YA (Young Adult) due to lack of finesse and poor execution, so I likely would have rated this higher if I read it as a teenager.
