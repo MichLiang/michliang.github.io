@@ -7,29 +7,34 @@ title: Books of 2023 - 2025
 > Recently, I've started reading again (recommendations from friends, family, colleagues, NYT best sellers, and BookTok/BookTube). I've collected some thoughts here, mostly to help myself keep track. There may be spoilers!
 
 Currently reading:
-- The Grace Year by Kim Liggett
+
 - Astor: The Rise and Fall of an American Fortune by Anderson Cooper and Katherine Howe
 - The 48 Laws of Power by Robert Greene
 
 ### 2025 Reads:
 
+7.5/10 | The Grace Year by Kim Liggett | Recommended by: GoodReads
+- A dystopian novel about how a group of girls are banished for their sixteenth year to return ready for marriage in a very patriarchal world.
+- This book was very fast-paced! I would compare it to Lord of the Flies, The Handmaid's Tale, and The Hunger Games.
+- However, it did read as very YA (Young Adult) due to lack of finesse and poor execution, so I likely would have rated this higher if I read it as a teenager.
+  
 ### 2024 Reads:
 
 7.5/10 | Lessons in Chemistry by Bonnie Garmus | Recommended by: Abbey (coworker), BookTok
 
 - Follows a female chemist in the 1960s and her life amongst the all-male team at Hastings Research. She becomes the reluctant star of a wildly popular cooking show.
 - I especially enjoyed the beginning of the book where we followed the main character's adventures together with Nobel-prize nominated love interest and their dog named Six-Thirty.
-- However, I did find the character a little too pretentious (i.e., speaking in chemical formulas) and two-dimensional, and there was more tell than show, which explains the drop in score.
+- However, I did find the character a little too pretentious (i.e., speaking in chemical formulas) and two-dimensional, and there was more tell than show, which explains the drop in my score.
 
 7/10 | Red Rising by Pierce Brown | Recommended by: BookTok, sister-in-law
 
 - A sci-fi and dystopian novel following a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works in the mines all day, believing that he and his people are making the surface of Mars livable for future generations.
-- First 35% read like a completely different book, and then latter part felt like a combination of The Hunger Games and Game of Thrones, if they were a bit one-dimensional and unclear.
-- Will I read the second and third book in the series? Yes, the world kept my interest enough for me to give it a try, but I don't have extremely high expectations.
+- First 35% read like a completely different book, and then latter part felt like a combination of The Hunger Games and Game of Thrones, if they were a bit more one-dimensional and unclear.
+- Will I read the second and third book in the series? Probably. The world kept my interest enough for me to give it a try, but I don't have extremely high expectations.
 
 7.5/10 | The Silent Patient by Alex Michaelides | Recommended by: BookTok
 
-- A criminal psychotherapist attempts to unravel a mystery surrounding a famous painter, Alicia, who was married to an in-demand fashion photographer. One evening, Alicia shoots her husband five times in the face, and then never speaks another word.
+- A criminal psychotherapist attempts to unravel a mystery surrounding a famous painter, Alicia, who was married to an in-demand fashion photographer. One evening, Alicia shoots her husband five times, and then never speaks another word.
 - That ending, wow. If I could rate just the ending, it would be a 9.5/10. Unfortunately, there were too many loose ends never resolved, caused by the red herring characters the author attempted to throw in throughout the story. Seemed like a means to an end, where a majority of the book was sacrificed to achieve the finishing twist.
 - The story was so quick and snappy - a very easy read. I finished this book in one day.
 
@@ -41,7 +46,7 @@ Currently reading:
 
 8.5/10 | The Women by Kristin Hannah | Recommended by: NYT Best Sellers, Hardcover Fiction
 
-- A historical fiction about a nursing student who is told by her brother’s friend that “women can be heroes too,”. She decides to enlist in the Army Nurse Corps to join her brother in the Vietnam War.
+- A historical fiction about a nursing student who is told by her brother’s friend that “women can be heroes too”. She decides to enlist in the Army Nurse Corps to join her brother in the Vietnam War.
 - Part 1 of the book (in-country) was captivating and eye-opening. Part 2 was a little bit repetitive for me, but appeared very well-researched.
 
 8/10 | The Three Body Problem by Cixin Liu | Recommended by: Raphael (my husband)
@@ -67,7 +72,7 @@ Currently reading:
 3/10 | You've Reached Sam by Dustin Thao | Recommended by: Francesca (my sister-in-law)
 
   - About how a girl's boyfriend dies, and then somehow they're still able to communicate through phone call.
-  - I didn't really enjoy how there were more questions than answers by the end of the book. Also, main character was a little bit unlikable, and the relationships lacked dimension.
+  - I didn't really enjoy how there were more questions than answers by the end of the book. Also, main character was a little bit unlikable, and the relationships lacked dimension. My sister did give me a heads up that she also did not enjoy this book!
 
 9.5/10 | Tress of the Emerald Sea by Brandon Sanderson | Recommended by: Abbey (my coworker)
 
@@ -76,7 +81,7 @@ Currently reading:
     
 7.5/10 | Iron Flame by Rebecca Yarros | Recommended by: BookTok, my sisters-in-law
 
-  - I really wanted to love this book (to be fair, it did keep me engaged), but it wasn't on the same level as Fourth Wing. The characters weren't as charismatic this time around, and it felt less organized and action-packed.
+  - I really wanted to love this book (to be fair, it did keep me engaged), but it wasn't as enjoyable as Fourth Wing. The characters weren't as charismatic this time around, and it felt less organized and action-packed.
   - I liked the small details (like how Xaden requested to meet Jesinia, which was a hint towards his second signet), so I'm hoping this book will set us up nicely for the rest of the series.
 
 3/10 | The Invisible Life of Addie Larue by V. E. Schwab | Recommended by: BookTube
@@ -96,26 +101,26 @@ Currently reading:
 
   - The tenth annual Hunger Games featuring eighteen-year-old Coriolanus Snow as a mentor for District 12.
   - Mostly wanted to read this prior to the movie coming out, and the Hunger Games trilogy was one of my favourite series growing up.
-  - Really enjoyed this book, but the turn at the very end felt a bit rushed.
+  - Really enjoyed this book, but the turn at the end felt a bit rushed.
 
 9/10 | When Breath Becomes Air by Paul Kalanithi | Recommended by: Pulitzer Prize Finalists, Biography, 2017
 
   - I never tended to reach for non-fiction, but this memoir by a young neurosurgeon faced with a terminal cancer diagnosis was a fantastic read. I read this while working in oncology, and it gave me a lot to think about.
-  -  Foreword by Abraham Verghese was hagiographic and contradictory. The epilogue written by Dr. Lucy Kalanithi however, was one of the most heartbreaking, stunning, and eloquent pieces I've read - she is a natural writer.
+  -  Foreword by Abraham Verghese was hagiographic and contradictory. The epilogue written by Dr. Lucy Kalanithi however, was one of the most heartbreaking, stunning, and eloquent pieces I've ever read - she is a natural writer.
 
 6/10 | A Court of Mist and Fury (ACOMAF) by Sarah J Maas | Recommended by: BookTok
 
   -  I heard the second book of the series was incredible despite my dismal experience with the first. Unfortunately, it was not all that much better in my opinion.
-  -  Also did not like Rhys, he made me feel uncomfy. This will be my last SJM book for the foreseeable future.
+  -  Also did not like Rhys, he made me feel uncomfortable. This will be my last SJM book for the foreseeable future.
 
 4/10 | A Court of Thorns and Roses (ACOTAR) by Sarah J Maas | Recommended by: BookTok
 
   - An attempted Beauty and the Beast reimagining where a girl abruptly ends up in a magical land full of dangerous faeries.
-  - The writing felt very unpolished and inconsistent and I could not relate to the main character at all. Also, ellipses just showed up in the oddest places.
+  - The writing felt very unpolished and inconsistent and I could not relate to the main character at all. Also, ellipses just showed up in the oddest of places.
 
 8/10 | Where the Crawdads Sing by Delia Owens | Recommended by: BookTok
 
-  - A coming of age, murder mystery, and love story about Kya, aka the Marsh girl, who is abandoned by her family and learns to fend for herself in the wild.
+  - A coming of age, murder mystery, and love story about Kya, a.k.a. the Marsh girl, who is abandoned by her family and learns to fend for herself in the wild.
   - Getting through the first half of this book (I had to skim through large passages) and getting used to the dialect was difficult, but I ended up staying up until 2am finishing the second half.
 
 9/10 | Fourth Wing by Rebecca Yarros | Recommended by: BookTok
@@ -133,7 +138,7 @@ Currently reading:
   - A husband hires a ghost writer to complete a book series that his injured wife can no longer finish.
   - Did this thriller give me nightmares? Yes. Was this an entertaining read? Also yes.
 
-6.5/10 | Throne of Glass by Sarah J Maas | Recommended by: BookTok
+6/10 | Throne of Glass by Sarah J Maas | Recommended by: BookTok
 
   - The main character gave "I'm not like the other girls" vibes and I'm surprised I managed to finish this book. In hindsight, I'm unsure why I rated it so high.
 
@@ -151,3 +156,9 @@ Currently reading:
   - I have to give this book kudos, because after I DNF'd two other books, this one finally pulled me out of my 10-year reading slump. It's a quick read.
   - I did not expect it to be about domestic abuse (it's marketed as a romance novel).
 
+
+### My DNF List:
+
+- Crown of Midnight by Sarah Maas
+- Why We Swim by Bobbie Tsui
+- Onyx Storm by Rebecca Yarros 
