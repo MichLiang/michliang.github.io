@@ -8,10 +8,17 @@ title: Books of 2023 - 2025
 
 Currently reading:
 
+- The Subtle Art of Not Giving a F*ck by Mark Manson (Audiobook)
 - Astor: The Rise and Fall of an American Fortune by Anderson Cooper and Katherine Howe
 - The 48 Laws of Power by Robert Greene
 
 ### 2025 Reads:
+
+7.5/10 | Sunrise on the Reaping by Suzanne Collins | Recommended by: nostalgia
+
+- Detailing the fiftieth annual Hunger Games featuring Haymitch Abernathy from District 12. Of course I have to read any book that comes out about the Hunger Games.
+- Some areas I didn't particularly take to: one-dimensional experience in the Games themselves, cameos from previous victors were a bit overdone, and underdeveloped side characters and relationships (felt like we relied too heavily on already beloved past characters than trying to build out new ones).
+- I did very much appreciate the turn at the end, some smaller unexpected twists such as during the reaping, and the plot is a tried and true formula.
 
 7.5/10 | The Grace Year by Kim Liggett | Recommended by: GoodReads
 
