@@ -8,11 +8,23 @@ title: Books of 2023 - 2025
 
 Currently reading:
 
-- The Subtle Art of Not Giving a F*ck by Mark Manson (Audiobook)
+- The Handmaid's Tale by Margaret Atwood
 - Astor: The Rise and Fall of an American Fortune by Anderson Cooper and Katherine Howe
 - The 48 Laws of Power by Robert Greene
 
 ### 2025 Reads:
+
+6.5/10 | Hello Stranger by Katherine Center | Recommended by: Librarian (at my local library)
+
+- A contemporary romance about a portrait artist who is diagnosed with a condition known as prosopagnosia (face blindness) after brain surgery.
+- Cons: this read did take me a while to get into, and I had to keep coaxing myself into picking it back up again for the first 3 quarters. Certain parts, especially the end, felt so cheesy my lactose intolerance acted up, and felt like more tell than show. As well, there were some inconsistencies such as Sadie's ability to determine certain voices. Last comment is that the explanation the initial elevator encounter that gave Sadie a bad impression was a hard sell.
+- Pros: although it was very predictable and I correctly guessed every event quite early on, it was still an enjoyable read and the leading man was likeable. 
+
+4/10 | The Subtle Art of Not Giving a F*ck by Mark Manson (Audiobook) | Recommended by: Spotify
+
+- Aimed at being a light, nonfiction, lifestyle and self-help book. There were a couple points in the book that were good, such as prioritizing and defining which things you're willing to struggle/experience pain for, or how the desire for more positive experience is itself a negative experience.
+- However, the tone for this book felt like it was written for edgy dudebros, and the use of profanity and casual misogyny made me tired and ended up distracting from any message or impact it was trying to make.
+- It very much felt like I was not the intended audience. Also I typically don't enjoy audiobooks as much as print, so that could also add to my low rating. 
 
 7.5/10 | Sunrise on the Reaping by Suzanne Collins | Recommended by: nostalgia
 
