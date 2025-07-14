@@ -17,7 +17,7 @@ Currently reading:
 6.5/10 | Hello Stranger by Katherine Center | Recommended by: Librarian (at my local library)
 
 - A contemporary romance about a portrait artist who is diagnosed with a condition known as prosopagnosia (face blindness) after brain surgery.
-- Cons: this read did take me a while to get into, and I had to keep coaxing myself into picking it back up again for the first 3 quarters. Certain parts felt so cheesy my lactose intolerance started acting up. As well, there were some inconsistencies such as Sadie's ability to determine certain voices. Last comment is that the explanation the initial elevator encounter that gave Sadie a bad impression was a hard sell.
+- Cons: this read did take me a while to get into, and I had to keep coaxing myself into picking it back up again for the first 3 quarters. Certain parts felt so cheesy my lactose intolerance started acting up. As well, there were some inconsistencies such as Sadie's ability to determine certain voices. Last comment is that the explanation about the initial elevator encounter that mistakenly gave Sadie a bad impression was a hard sell.
 - Pros: although it was very predictable and I correctly guessed every event quite early on, it was still an enjoyable read and the leading man was likeable. 
 
 4/10 | The Subtle Art of Not Giving a F*ck by Mark Manson (Audiobook) | Recommended by: Spotify
