@@ -1,4 +1,4 @@
-window.addEventListener("scroll", function () {
+function updateMoon() {
   const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
   const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
   const t = scrollHeight > 0 ? Math.min(scrollTop / scrollHeight, 1) : 0;
@@ -21,4 +21,7 @@ window.addEventListener("scroll", function () {
   if (moon) {
     moon.style.transform = "translate(" + x + "px, " + y + "px) rotate(" + rotation + "deg)";
   }
-});
+}
+
+window.addEventListener("scroll", updateMoon);
+updateMoon();
