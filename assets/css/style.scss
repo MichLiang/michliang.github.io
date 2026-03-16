@@ -203,13 +203,15 @@ body {
 
 .moon {
   position: fixed;
-  bottom: 5vh;
-  left: 5vw;
+  left: 0;
+  top: 0;
   width: 10vh;
   height: 10vh;
   background-image: url(../newwebste/Moon.png);
   background-size: contain;
-  z-index: 3;
+  background-repeat: no-repeat;
+  z-index: 1;
+  will-change: transform;
 }
 
 .wrapper {
@@ -234,5 +236,12 @@ body {
 
 #mliangvector {
   scale: 81%;
+}
+
+@media screen and (max-width: 600px) {
+  .moon {
+    width: 7vh;
+    height: 7vh;
+  }
 }
 
