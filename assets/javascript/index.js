@@ -25,3 +25,34 @@ function updateMoon() {
 
 window.addEventListener("scroll", updateMoon);
 updateMoon();
+
+// Raph easter egg toggle
+(function () {
+  var raphToggle = document.getElementById('raph-toggle');
+  var raphDiv = document.querySelector('.raph');
+  if (!raphToggle || !raphDiv) return;
+
+  var state = 'hidden-left'; // hidden-left -> visible -> hidden-right -> hidden-left
+
+  raphToggle.addEventListener('click', function (e) {
+    e.preventDefault();
+    if (state === 'hidden-left') {
+      raphDiv.classList.add('visible');
+      state = 'visible';
+    } else if (state === 'visible') {
+      raphDiv.classList.remove('visible');
+      raphDiv.classList.add('dismissed');
+      state = 'hidden-right';
+    }
+  });
+
+  raphDiv.addEventListener('transitionend', function () {
+    if (state === 'hidden-right') {
+      raphDiv.style.transition = 'none';
+      raphDiv.classList.remove('dismissed');
+      raphDiv.offsetHeight; // force reflow so the reset applies instantly
+      raphDiv.style.transition = '';
+      state = 'hidden-left';
+    }
+  });
+})();

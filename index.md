@@ -10,4 +10,4 @@ I'm a hospital pharmacist working in oncology, benign hematology, and internal m
 
 
 
-<i> Special thanks to <a href="https://www.raphaelkoh.me"> Raphael </a> for mentoring me throughout the process of making this website!</i>
+<i> Special thanks to <a href="#" id="raph-toggle" onclick="event.preventDefault()"> Raphael </a> for mentoring me throughout the process of making this website!</i>
